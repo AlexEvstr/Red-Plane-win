@@ -1,0 +1,415 @@
+{
+    "items": [
+        {
+            "key": "question1",
+            "value": "An airplane can fly without wings."
+        },
+        {
+            "key": "question2",
+            "value": "The Wright brothers invented the first successful airplane."
+        },
+        {
+            "key": "question3",
+            "value": "A jet engine uses a propeller to generate thrust."
+        },
+        {
+            "key": "question4",
+            "value": "The black box on an airplane is actually orange."
+        },
+        {
+            "key": "question5",
+            "value": "All airplanes have the same number of engines."
+        },
+        {
+            "key": "question6",
+            "value": "The wings of an airplane are designed to generate lift."
+        },
+        {
+            "key": "question7",
+            "value": "Airplanes can only fly during the day."
+        },
+        {
+            "key": "question8",
+            "value": "The tail of an airplane helps with stability."
+        },
+        {
+            "key": "question9",
+            "value": "A pilot needs a license to fly an airplane."
+        },
+        {
+            "key": "question10",
+            "value": "Airplanes cannot fly in the rain."
+        },
+        {
+            "key": "question11",
+            "value": "A helicopter is a type of airplane."
+        },
+        {
+            "key": "question12",
+            "value": "Commercial airplanes usually have a flight attendant."
+        },
+        {
+            "key": "question13",
+            "value": "The cockpit is where the passengers sit."
+        },
+        {
+            "key": "question14",
+            "value": "Airplanes can travel faster than the speed of sound."
+        },
+        {
+            "key": "question15",
+            "value": "The fuselage is the main body of an airplane."
+        },
+        {
+            "key": "question16",
+            "value": "Airplanes can only take off from airports."
+        },
+        {
+            "key": "question17",
+            "value": "The landing gear is used during takeoff and landing."
+        },
+        {
+            "key": "question18",
+            "value": "The wings of an airplane cannot be moved."
+        },
+        {
+            "key": "question19",
+            "value": "An autopilot system can fly an airplane without human intervention."
+        },
+        {
+            "key": "question20",
+            "value": "All airplanes have a maximum altitude they can fly."
+        },
+        {
+            "key": "question21",
+            "value": "An airplane’s speed is measured in knots."
+        },
+        {
+            "key": "question22",
+            "value": "A propeller-driven airplane is called a jet."
+        },
+        {
+            "key": "question23",
+            "value": "Airplanes need oxygen tanks to provide air for passengers."
+        },
+        {
+            "key": "question24",
+            "value": "The flaps on an airplane’s wings help to slow it down."
+        },
+        {
+            "key": "question25",
+            "value": "A jumbo jet is a type of large passenger airplane."
+        },
+        {
+            "key": "question26",
+            "value": "The altimeter in an airplane measures speed."
+        },
+        {
+            "key": "question27",
+            "value": "All airplanes have a copilot."
+        },
+        {
+            "key": "question28",
+            "value": "The Concorde was a supersonic passenger airplane."
+        },
+        {
+            "key": "question29",
+            "value": "An airplane’s engine can run on electricity."
+        },
+        {
+            "key": "question30",
+            "value": "The vertical stabilizer is located on the tail of the airplane."
+        },
+        {
+            "key": "question31",
+            "value": "Airplanes can only fly in clear weather."
+        },
+        {
+            "key": "question32",
+            "value": "A biplane has two sets of wings."
+        },
+        {
+            "key": "question33",
+            "value": "Airplanes can be used for firefighting."
+        },
+        {
+            "key": "question34",
+            "value": "The landing gear is always extended during flight."
+        },
+        {
+            "key": "question35",
+            "value": "The rudder controls the yaw of an airplane."
+        },
+        {
+            "key": "question36",
+            "value": "Airplanes are powered by solar energy."
+        },
+        {
+            "key": "question37",
+            "value": "An airplane’s altitude is measured in feet or meters."
+        },
+        {
+            "key": "question38",
+            "value": "The first airplane flight was in the 18th century."
+        },
+        {
+            "key": "question39",
+            "value": "Airplanes can be refueled in mid-air."
+        },
+        {
+            "key": "question40",
+            "value": "The ailerons control the roll of an airplane."
+        },
+        {
+            "key": "question41",
+            "value": "All airplanes are equipped with parachutes."
+        },
+        {
+            "key": "question42",
+            "value": "An airplane’s speed can be affected by wind."
+        },
+        {
+            "key": "question43",
+            "value": "The wings of an airplane can change shape."
+        },
+        {
+            "key": "question44",
+            "value": "An airplane can hover in place like a helicopter."
+        },
+        {
+            "key": "question45",
+            "value": "The F-22 Raptor is a type of military airplane."
+        },
+        {
+            "key": "question46",
+            "value": "Airplanes cannot be used for cargo transport."
+        },
+        {
+            "key": "question47",
+            "value": "The wingspan of an airplane affects its lift."
+        },
+        {
+            "key": "question48",
+            "value": "Airplanes are always faster than cars."
+        },
+        {
+            "key": "question49",
+            "value": "The Boeing 747 is known as the “Queen of the Skies.”"
+        },
+        {
+            "key": "question50",
+            "value": "Airplanes have only one method of controlling direction."
+        },
+        {
+            "key": "question51",
+            "value": "A seaplane can land on water."
+        },
+        {
+            "key": "question52",
+            "value": "Airplanes always have a backup pilot."
+        },
+        {
+            "key": "question53",
+            "value": "The angle of attack affects the lift generated by an airplane."
+        },
+        {
+            "key": "question54",
+            "value": "Airplanes can fly upside down."
+        },
+        {
+            "key": "question55",
+            "value": "All airplanes have four engines."
+        },
+        {
+            "key": "question56",
+            "value": "The primary function of the elevator is to control pitch."
+        },
+        {
+            "key": "question57",
+            "value": "An airliner is a type of commercial airplane."
+        },
+        {
+            "key": "question58",
+            "value": "Airplanes cannot fly over mountains."
+        },
+        {
+            "key": "question59",
+            "value": "Airplanes are used for medical evacuations."
+        },
+        {
+            "key": "question60",
+            "value": "The maximum speed of an airplane is called its stall speed."
+        },
+        {
+            "key": "question61",
+            "value": "Airplanes can take off vertically like rockets."
+        },
+        {
+            "key": "question62",
+            "value": "An airplane’s wings generate thrust."
+        },
+        {
+            "key": "question63",
+            "value": "The term “mayday” is used to signal a distress situation in aviation."
+        },
+        {
+            "key": "question64",
+            "value": "All airplanes are made of metal."
+        },
+        {
+            "key": "question65",
+            "value": "The wings of an airplane are always level with the fuselage."
+        },
+        {
+            "key": "question66",
+            "value": "An airplane’s rudder controls its altitude."
+        },
+        {
+            "key": "question67",
+            "value": "The first powered flight was in 1903."
+        },
+        {
+            "key": "question68",
+            "value": "Airplanes can fly backwards."
+        },
+        {
+            "key": "question69",
+            "value": "An airplane’s navigation lights help it land at night."
+        },
+        {
+            "key": "question70",
+            "value": "Airplanes can be controlled remotely."
+        },
+        {
+            "key": "question71",
+            "value": "The F-16 is a commercial airplane."
+        },
+        {
+            "key": "question72",
+            "value": "Airplanes can carry cargo and passengers at the same time."
+        },
+        {
+            "key": "question73",
+            "value": "The nose of an airplane is called the bow."
+        },
+        {
+            "key": "question74",
+            "value": "Airplanes use flaps to increase lift during takeoff."
+        },
+        {
+            "key": "question75",
+            "value": "Airplanes cannot be used for scientific research."
+        },
+        {
+            "key": "question76",
+            "value": "The vertical stabilizer is used to control the roll of an airplane."
+        },
+        {
+            "key": "question77",
+            "value": "Airplanes can only be flown by humans."
+        },
+        {
+            "key": "question78",
+            "value": "The landing gear is retracted after takeoff."
+        },
+        {
+            "key": "question79",
+            "value": "Airplanes have a maximum takeoff weight."
+        },
+        {
+            "key": "question80",
+            "value": "The wings of an airplane are used to generate thrust."
+        },
+        {
+            "key": "question81",
+            "value": "An airplane cannot fly with only one engine working."
+        },
+        {
+            "key": "question82",
+            "value": "The Concorde could travel at twice the speed of sound."
+        },
+        {
+            "key": "question83",
+            "value": "An airplane’s flaps are used to control yaw."
+        },
+        {
+            "key": "question84",
+            "value": "The Wright Flyer was the first powered airplane."
+        },
+        {
+            "key": "question85",
+            "value": "Airplanes cannot fly through clouds."
+        },
+        {
+            "key": "question86",
+            "value": "The tail of an airplane helps control its direction."
+        },
+        {
+            "key": "question87",
+            "value": "Airplanes cannot fly faster than 500 miles per hour."
+        },
+        {
+            "key": "question88",
+            "value": "The Boeing 737 is a type of fighter jet."
+        },
+        {
+            "key": "question89",
+            "value": "An airplane’s wings are always flat."
+        },
+        {
+            "key": "question90",
+            "value": "The rudder is part of an airplane’s tail assembly."
+        },
+        {
+            "key": "question91",
+            "value": "Airplanes can be refueled while flying."
+        },
+        {
+            "key": "question92",
+            "value": "The nose of an airplane affects its aerodynamics."
+        },
+        {
+            "key": "question93",
+            "value": "Airplanes can fly in a straight line indefinitely."
+        },
+        {
+            "key": "question94",
+            "value": "An airplane can land without its landing gear."
+        },
+        {
+            "key": "question95",
+            "value": "Airplanes have to follow specific flight paths."
+        },
+        {
+            "key": "question96",
+            "value": "The F-35 Lightning II is a type of commercial airplane."
+        },
+        {
+            "key": "question97",
+            "value": "The ailerons help control an airplane’s roll."
+        },
+        {
+            "key": "question98",
+            "value": "The wings of an airplane can be folded."
+        },
+        {
+            "key": "question99",
+            "value": "Airplanes can take off from water."
+        },
+        {
+            "key": "question100",
+            "value": "The Concorde was known for its slow speed."
+        },
+
+        {
+            "key": "Shop",
+            "value": "shop"
+        },
+
+        {
+            "key": "Settings",
+            "value": "settings"
+        }
+
+    ]
+}

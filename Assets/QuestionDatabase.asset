@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029b6a66d4fd84a3cafea25d0fc81b51, type: 3}
+  m_Name: QuestionDatabase
+  m_EditorClassIdentifier: 
+  questions:
+  - key: question1
+    isTrue: 0
+  - key: question2
+    isTrue: 1
+  - key: question3
+    isTrue: 0
+  - key: question4
+    isTrue: 1
+  - key: question5
+    isTrue: 0
+  - key: question6
+    isTrue: 1
+  - key: question7
+    isTrue: 0
+  - key: question8
+    isTrue: 1
+  - key: question9
+    isTrue: 1
+  - key: question10
+    isTrue: 0
+  - key: question11
+    isTrue: 0
+  - key: question12
+    isTrue: 1
+  - key: question13
+    isTrue: 0
+  - key: question14
+    isTrue: 1
+  - key: question15
+    isTrue: 1
+  - key: question16
+    isTrue: 0
+  - key: question17
+    isTrue: 1
+  - key: question18
+    isTrue: 0
+  - key: question19
+    isTrue: 1
+  - key: question20
+    isTrue: 1

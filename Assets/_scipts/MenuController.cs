@@ -8,6 +8,11 @@ public class MenuController : MonoBehaviour
     [SerializeField] private GameObject _shop;
     [SerializeField] private GameObject _settings;
 
+    private void Start()
+    {
+        Time.timeScale = 1;
+    }
+
     public void StartEndlessGame()
     {
         SceneManager.LoadScene("GameplayEndless");

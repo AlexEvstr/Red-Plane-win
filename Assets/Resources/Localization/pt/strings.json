@@ -1,0 +1,414 @@
+{
+    "items": [
+        {
+            "key": "question1",
+            "value": "Um avião pode voar sem asas."
+        },
+        {
+            "key": "question2",
+            "value": "Os irmãos Wright inventaram o primeiro avião de sucesso."
+        },
+        {
+            "key": "question3",
+            "value": "Um motor a jato usa uma hélice para gerar empuxo."
+        },
+        {
+            "key": "question4",
+            "value": "A caixa preta de um avião é na verdade laranja."
+        },
+        {
+            "key": "question5",
+            "value": "Todos os aviões têm o mesmo número de motores."
+        },
+        {
+            "key": "question6",
+            "value": "As asas de um avião são projetadas para gerar sustentação."
+        },
+        {
+            "key": "question7",
+            "value": "Aviões só podem voar durante o dia."
+        },
+        {
+            "key": "question8",
+            "value": "A cauda de um avião ajuda na estabilidade."
+        },
+        {
+            "key": "question9",
+            "value": "Um piloto precisa de licença para pilotar um avião."
+        },
+        {
+            "key": "question10",
+            "value": "Aviões não podem voar na chuva."
+        },
+        {
+            "key": "question11",
+            "value": "Um helicóptero é um tipo de avião."
+        },
+        {
+            "key": "question12",
+            "value": "Aviões comerciais geralmente têm comissário de bordo."
+        },
+        {
+            "key": "question13",
+            "value": "O cockpit é onde os passageiros sentam."
+        },
+        {
+            "key": "question14",
+            "value": "Aviões podem viajar mais rápido que a velocidade do som."
+        },
+        {
+            "key": "question15",
+            "value": "A fuselagem é o corpo principal de um avião."
+        },
+        {
+            "key": "question16",
+            "value": "Aviões só podem decolar de aeroportos."
+        },
+        {
+            "key": "question17",
+            "value": "O trem de pouso é usado durante a decolagem e pouso."
+        },
+        {
+            "key": "question18",
+            "value": "As asas de um avião não podem ser movidas."
+        },
+        {
+            "key": "question19",
+            "value": "Um sistema de piloto automático pode pilotar um avião sem intervenção humana."
+        },
+        {
+            "key": "question20",
+            "value": "Todos os aviões têm uma altitude máxima que podem voar."
+        },
+        {
+            "key": "question21",
+            "value": "A velocidade de um avião é medida em nós."
+        },
+        {
+            "key": "question22",
+            "value": "Um avião movido a hélice é chamado de jato."
+        },
+        {
+            "key": "question23",
+            "value": "Aviões precisam de tanques de oxigênio para fornecer ar aos passageiros."
+        },
+        {
+            "key": "question24",
+            "value": "Os flaps nas asas de um avião ajudam a desacelerá-lo."
+        },
+        {
+            "key": "question25",
+            "value": "Um jumbo jet é um tipo de grande avião de passageiros."
+        },
+        {
+            "key": "question26",
+            "value": "O altímetro em um avião mede a velocidade."
+        },
+        {
+            "key": "question27",
+            "value": "Todos os aviões têm um copiloto."
+        },
+        {
+            "key": "question28",
+            "value": "O Concorde era um avião de passageiros supersônico."
+        },
+        {
+            "key": "question29",
+            "value": "O motor de um avião pode funcionar com eletricidade."
+        },
+        {
+            "key": "question30",
+            "value": "O estabilizador vertical está localizado na cauda do avião."
+        },
+        {
+            "key": "question31",
+            "value": "Aviões só podem voar em clima claro."
+        },
+        {
+            "key": "question32",
+            "value": "Um biplano tem dois conjuntos de asas."
+        },
+        {
+            "key": "question33",
+            "value": "Aviões podem ser usados para combater incêndios."
+        },
+        {
+            "key": "question34",
+            "value": "O trem de pouso está sempre estendido durante o voo."
+        },
+        {
+            "key": "question35",
+            "value": "O leme controla o guinada de um avião."
+        },
+        {
+            "key": "question36",
+            "value": "Aviões são movidos a energia solar."
+        },
+        {
+            "key": "question37",
+            "value": "A altitude de um avião é medida em pés ou metros."
+        },
+        {
+            "key": "question38",
+            "value": "O primeiro voo de avião foi no século XVIII."
+        },
+        {
+            "key": "question39",
+            "value": "Aviões podem ser reabastecidos no ar."
+        },
+        {
+            "key": "question40",
+            "value": "Os ailerons controlam o rolamento de um avião."
+        },
+        {
+            "key": "question41",
+            "value": "Todos os aviões estão equipados com paraquedas."
+        },
+        {
+            "key": "question42",
+            "value": "A velocidade de um avião pode ser afetada pelo vento."
+        },
+        {
+            "key": "question43",
+            "value": "As asas de um avião podem mudar de forma."
+        },
+        {
+            "key": "question44",
+            "value": "Um avião pode pairar no lugar como um helicóptero."
+        },
+        {
+            "key": "question45",
+            "value": "O F-22 Raptor é um tipo de avião militar."
+        },
+        {
+            "key": "question46",
+            "value": "Aviões não podem ser usados para transporte de carga."
+        },
+        {
+            "key": "question47",
+            "value": "A envergadura das asas de um avião afeta sua sustentação."
+        },
+        {
+            "key": "question48",
+            "value": "Aviões são sempre mais rápidos que carros."
+        },
+        {
+            "key": "question49",
+            "value": "O Boeing 747 é conhecido como a \"Rainha dos Céus\"."
+        },
+        {
+            "key": "question50",
+            "value": "Aviões têm apenas um método de controle de direção."
+        },
+        {
+            "key": "question51",
+            "value": "Um hidroavião pode pousar na água."
+        },
+        {
+            "key": "question52",
+            "value": "Aviões sempre têm um piloto de backup."
+        },
+        {
+            "key": "question53",
+            "value": "O ângulo de ataque afeta a sustentação gerada por um avião."
+        },
+        {
+            "key": "question54",
+            "value": "Aviões podem voar de cabeça para baixo."
+        },
+        {
+            "key": "question55",
+            "value": "Todos os aviões têm quatro motores."
+        },
+        {
+            "key": "question56",
+            "value": "A função principal do estabilizador é controlar a inclinação."
+        },
+        {
+            "key": "question57",
+            "value": "Um avião comercial é um tipo de avião comercial."
+        },
+        {
+            "key": "question58",
+            "value": "Aviões não podem voar sobre montanhas."
+        },
+        {
+            "key": "question59",
+            "value": "Aviões são usados para evacuações médicas."
+        },
+        {
+            "key": "question60",
+            "value": "A velocidade máxima de um avião é chamada de velocidade de estol."
+        },
+        {
+            "key": "question61",
+            "value": "Aviões podem decolar verticalmente como foguetes."
+        },
+        {
+            "key": "question62",
+            "value": "As asas de um avião geram empuxo."
+        },
+        {
+            "key": "question63",
+            "value": "O termo \"mayday\" é usado para sinalizar uma situação de emergência na aviação."
+        },
+        {
+            "key": "question64",
+            "value": "Todos os aviões são feitos de metal."
+        },
+        {
+            "key": "question65",
+            "value": "As asas de um avião estão sempre niveladas com a fuselagem."
+        },
+        {
+            "key": "question66",
+            "value": "O leme de um avião controla sua altitude."
+        },
+        {
+            "key": "question67",
+            "value": "O primeiro voo motorizado foi em 1903."
+        },
+        {
+            "key": "question68",
+            "value": "Aviões podem voar para trás."
+        },
+        {
+            "key": "question69",
+            "value": "As luzes de navegação de um avião ajudam a pousar à noite."
+        },
+        {
+            "key": "question70",
+            "value": "Aviões podem ser controlados remotamente."
+        },
+        {
+            "key": "question71",
+            "value": "O F-16 é um avião comercial."
+        },
+        {
+            "key": "question72",
+            "value": "Aviões podem transportar carga e passageiros ao mesmo tempo."
+        },
+        {
+            "key": "question73",
+            "value": "O nariz de um avião é chamado de proa."
+        },
+        {
+            "key": "question74",
+            "value": "Aviões usam flaps para aumentar a sustentação durante a decolagem."
+        },
+        {
+            "key": "question75",
+            "value": "Aviões não podem ser usados para pesquisas científicas."
+        },
+        {
+            "key": "question76",
+            "value": "O estabilizador vertical é usado para controlar o rolamento de um avião."
+        },
+        {
+            "key": "question77",
+            "value": "Aviões só podem ser pilotados por humanos."
+        },
+        {
+            "key": "question78",
+            "value": "O trem de pouso é retraído após a decolagem."
+        },
+        {
+            "key": "question79",
+            "value": "Aviões têm um peso máximo de decolagem."
+        },
+        {
+            "key": "question80",
+            "value": "As asas de um avião são usadas para gerar empuxo."
+        },
+        {
+            "key": "question81",
+            "value": "Um avião não pode voar com apenas um motor funcionando."
+        },
+        {
+            "key": "question82",
+            "value": "O Concorde podia viajar a duas vezes a velocidade do som."
+        },
+        {
+            "key": "question83",
+            "value": "Os flaps de um avião são usados para controlar a guinada."
+        },
+        {
+            "key": "question84",
+            "value": "O Wright Flyer foi o primeiro avião motorizado."
+        },
+        {
+            "key": "question85",
+            "value": "Aviões não podem voar através das nuvens."
+        },
+        {
+            "key": "question86",
+            "value": "A cauda de um avião ajuda a controlar sua direção."
+        },
+        {
+            "key": "question87",
+            "value": "Aviões não podem voar mais rápido que 500 milhas por hora."
+        },
+        {
+            "key": "question88",
+            "value": "O Boeing 737 é um tipo de caça."
+        },
+        {
+            "key": "question89",
+            "value": "As asas de um avião são sempre planas."
+        },
+        {
+            "key": "question90",
+            "value": "O leme faz parte do conjunto de cauda de um avião."
+        },
+        {
+            "key": "question91",
+            "value": "Aviões podem ser reabastecidos enquanto voam."
+        },
+        {
+            "key": "question92",
+            "value": "O nariz de um avião afeta sua aerodinâmica."
+        },
+        {
+            "key": "question93",
+            "value": "Aviões podem voar em linha reta indefinidamente."
+        },
+        {
+            "key": "question94",
+            "value": "Um avião pode pousar sem o trem de pouso."
+        },
+        {
+            "key": "question95",
+            "value": "Aviões precisam seguir rotas de voo específicas."
+        },
+        {
+            "key": "question96",
+            "value": "O F-35 Lightning II é um tipo de avião comercial."
+        },
+        {
+            "key": "question97",
+            "value": "Os ailerons ajudam a controlar o rolamento de um avião."
+        },
+        {
+            "key": "question98",
+            "value": "As asas de um avião podem ser dobradas."
+        },
+        {
+            "key": "question99",
+            "value": "Aviões podem decolar da água."
+        },
+        {
+            "key": "question100",
+            "value": "O Concorde era conhecido por sua baixa velocidade."
+        },
+
+        {
+            "key": "Shop",
+            "value": "comprar"
+        },
+
+        {
+            "key": "Settings",
+            "value": "configurações"
+        }
+    ]
+}
