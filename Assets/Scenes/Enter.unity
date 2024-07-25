@@ -892,6 +892,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3d299f0398d949f9956a13382d59210, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _planes:
+  - {fileID: 1461450324}
+  - {fileID: 352383429}
+  - {fileID: 866661154}
+  - {fileID: 1520787049}
 --- !u!4 &1163130083
 Transform:
   m_ObjectHideFlags: 0
@@ -924,7 +929,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &1461450325
 Animator:
   serializedVersion: 5

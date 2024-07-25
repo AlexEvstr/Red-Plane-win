@@ -7,10 +7,19 @@ public class MenuController : MonoBehaviour
     [SerializeField] private GameObject _levels;
     [SerializeField] private GameObject _shop;
     [SerializeField] private GameObject _settings;
+    [SerializeField] private GameObject[] _planes;
 
     private void Start()
     {
         Time.timeScale = 1;
+
+        for (int i = 0; i < _planes.Length; i++)
+        {
+            if (i == PlayerPrefs.GetInt("planeSkin", 0))
+            {
+                _planes[i].SetActive(true);
+            }
+        }
     }
 
     public void StartEndlessGame()
