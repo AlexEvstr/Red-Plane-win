@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -13,6 +14,7 @@ public class LevelQuizManager : MonoBehaviour
     [SerializeField] private GameObject _star2;
     [SerializeField] private GameObject _star3;
     [SerializeField] private Image timerBar;
+    [SerializeField] private TMP_Text _correctAnswersText;
 
     private List<QuestionDatabase.Question> questionList;
     private QuestionDatabase.Question currentQuestion;
@@ -34,6 +36,7 @@ public class LevelQuizManager : MonoBehaviour
         levelIndex = PlayerPrefs.GetInt("LevelIndex", 1);
         InitializeQuestionList();
         StartCoroutine(StartQuiz());
+        _correctAnswersText.text = $"{correctAnswers}/5";
     }
 
     private void InitializeQuestionList()
@@ -93,6 +96,7 @@ public class LevelQuizManager : MonoBehaviour
             {
                 quizUI.HideQuestion();
                 correctAnswers++;
+                _correctAnswersText.text = $"{correctAnswers}/5";
 
                 if (correctAnswers == 5)
                 {
