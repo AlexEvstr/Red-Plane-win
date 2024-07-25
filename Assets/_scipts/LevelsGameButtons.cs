@@ -1,15 +1,13 @@
-using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class EndlessGameController : MonoBehaviour
+public class LevelsGameButtons : MonoBehaviour
 {
     [SerializeField] private GameObject _pause;
-    [SerializeField] private GameObject _gameOver;
 
     private void Start()
     {
-        Time.timeScale = 1;
+        Time.timeScale = 1;    
     }
 
     public void OpenPause()
@@ -18,19 +16,19 @@ public class EndlessGameController : MonoBehaviour
         Time.timeScale = 0;
     }
 
-    public void ClosePause()
+    public void ResumeGame()
     {
         _pause.SetActive(false);
         Time.timeScale = 1;
     }
 
-    public void PlayAgain()
-    {
-        SceneManager.LoadScene("GameplayEndless");
-    }
-
-    public void BackToMenu()
+    public void GoHome()
     {
         SceneManager.LoadScene("Home");
+    }
+
+    public void RestartGame()
+    {
+        SceneManager.LoadScene("GameplayLevel");
     }
 }
