@@ -12,9 +12,11 @@ public class QuizManager : MonoBehaviour
     [SerializeField] private GameObject _gameOver;
     [SerializeField] private GameObject _scoreText;
     [SerializeField] private TMP_Text _gameOverScoreText;
+    private GameVolumeController _gameVolumeController;
 
     private void Start()
     {
+        _gameVolumeController = GetComponent<GameVolumeController>();
         if (quizUI == null || questionDatabase == null || questionDatabase.questions.Length == 0)
         {
             return;
@@ -40,10 +42,7 @@ public class QuizManager : MonoBehaviour
             CheckAnswer(quizUI.UserAnswer);
             yield return new WaitForSeconds(1f);
         }
-        _gameOverScoreText.text = $"Your score: {EndlessScoreManager.Score}";
-        _scoreText.SetActive(false);
-        _gameOver.SetActive(true);
-        Time.timeScale = 0;
+        StartCoroutine(GameOverBehavior());
     }
 
     private void DisplayNewQuestion()
@@ -63,15 +62,27 @@ public class QuizManager : MonoBehaviour
             {
                 quizUI.HideQuestion();
                 EndlessScoreManager.Score++;
+                _gameVolumeController.GoodAnswerSound();
             }
             else
             {
-                _gameOverScoreText.text = $"Your score: {EndlessScoreManager.Score}";
-                _scoreText.SetActive(false);
-                _gameOver.SetActive(true);
-                Time.timeScale = 0;
+                StartCoroutine(GameOverBehavior());
             }
         }
+    }
+
+    private IEnumerator GameOverBehavior()
+    {
+        _gameVolumeController.BadAnswerSound();
+        _gameOverScoreText.text = $"Your score: {EndlessScoreManager.Score}";
+
+        yield return new WaitForSeconds(1.0f);
+
+        _scoreText.SetActive(false);
+        _gameOver.SetActive(true);
+        _gameVolumeController.musicSource.volume = 0;
+        _gameVolumeController.LoseSound();
+        Time.timeScale = 0;
     }
 
     private QuestionDatabase.Question GetNextQuestion()

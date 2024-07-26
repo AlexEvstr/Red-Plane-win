@@ -322,7 +322,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 118308221}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &132642589
 GameObject:
   m_ObjectHideFlags: 0
@@ -462,6 +474,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSource: {fileID: 749088351}
   soundSource: {fileID: 645083114}
+  _clickSound: {fileID: 8300000, guid: da285bf8525654a9ea0eaa6a6535a407, type: 3}
+  _goodAnswerSound: {fileID: 8300000, guid: af0bd06d6df8d41b487dd5eb8e37beb3, type: 3}
+  _badAnswerSound: {fileID: 8300000, guid: 9a41db69595c54c8b9332ebfb7007e1f, type: 3}
+  _winSound: {fileID: 8300000, guid: 4fcaf3c27d9da468fb537469d29de037, type: 3}
+  _loseSound: {fileID: 8300000, guid: 48f41c04f97754ec3ae59c565905f7a9, type: 3}
 --- !u!114 &132642597
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -665,6 +682,18 @@ MonoBehaviour:
       - m_Target: {fileID: 132642594}
         m_TargetAssemblyTypeName: LevelsGameButtons, Assembly-CSharp
         m_MethodName: GoHome
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1081,6 +1110,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &514994278
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1449,7 +1490,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 554928975}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &554928975
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1796,6 +1849,18 @@ MonoBehaviour:
       - m_Target: {fileID: 132642594}
         m_TargetAssemblyTypeName: LevelsGameButtons, Assembly-CSharp
         m_MethodName: GoHome
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2418,6 +2483,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &866769654
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2789,6 +2866,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &963473959
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3102,6 +3191,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 132642594}
         m_TargetAssemblyTypeName: LevelsGameButtons, Assembly-CSharp
         m_MethodName: OpenPause
@@ -3343,6 +3444,18 @@ MonoBehaviour:
       - m_Target: {fileID: 132642594}
         m_TargetAssemblyTypeName: LevelsGameButtons, Assembly-CSharp
         m_MethodName: RestartGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4630,6 +4743,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 132642596}
+        m_TargetAssemblyTypeName: GameVolumeController, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1752461107
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4962,10 +5087,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1839899023}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 200, y: -450}
-  m_SizeDelta: {x: 339.1, y: 173.9}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -75, y: -200}
+  m_SizeDelta: {x: 450, y: 175}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1897915388
 GameObject:
@@ -5370,7 +5495,7 @@ SceneRoots:
   - {fileID: 1507442543}
   - {fileID: 1839899023}
   - {fileID: 926786053}
-  - {fileID: 132642591}
   - {fileID: 400293901}
+  - {fileID: 132642591}
   - {fileID: 749088353}
   - {fileID: 645083115}

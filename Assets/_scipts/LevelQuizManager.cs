@@ -15,6 +15,7 @@ public class LevelQuizManager : MonoBehaviour
     [SerializeField] private GameObject _star3;
     [SerializeField] private Image timerBar;
     [SerializeField] private TMP_Text _correctAnswersText;
+    private GameVolumeController _gameVolumeController;
 
     private List<QuestionDatabase.Question> questionList;
     private QuestionDatabase.Question currentQuestion;
@@ -28,6 +29,7 @@ public class LevelQuizManager : MonoBehaviour
 
     private void Start()
     {
+        _gameVolumeController = GetComponent<GameVolumeController>();
         if (quizUI == null || questionDatabase == null || questionDatabase.questions.Length == 0)
         {
             return;
@@ -96,6 +98,7 @@ public class LevelQuizManager : MonoBehaviour
             {
                 quizUI.HideQuestion();
                 correctAnswers++;
+                _gameVolumeController.GoodAnswerSound();
                 _correctAnswersText.text = $"{correctAnswers}/5";
 
                 if (correctAnswers == 5)
@@ -105,7 +108,7 @@ public class LevelQuizManager : MonoBehaviour
             }
             else
             {
-                GameOver();
+                StartCoroutine(GameOver());
             }
         }
     }
@@ -122,8 +125,13 @@ public class LevelQuizManager : MonoBehaviour
         return question;
     }
 
-    private void GameOver()
+    private IEnumerator GameOver()
     {
+        _gameVolumeController.BadAnswerSound();
+        
+        yield return new WaitForSeconds(1.0f);
+        _gameVolumeController.musicSource.volume = 0;
+        _gameVolumeController.LoseSound();
         _gameOver.SetActive(true);
         Time.timeScale = 0;
     }
@@ -131,6 +139,8 @@ public class LevelQuizManager : MonoBehaviour
     private void Win()
     {
         _win.SetActive(true);
+        _gameVolumeController.musicSource.volume = 0;
+        _gameVolumeController.WinSound();
         Time.timeScale = 0;
 
         float totalElapsedTime = totalTimeSpent;
