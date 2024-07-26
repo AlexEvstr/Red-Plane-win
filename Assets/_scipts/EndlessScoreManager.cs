@@ -13,17 +13,17 @@ public class EndlessScoreManager : MonoBehaviour
     {
         Score = 0;
         _bestScore = PlayerPrefs.GetInt("EndlessBestScore", 0);
-        _bestScoreText.text = $"best: {_bestScore}";
+        _bestScoreText.text = $"best {_bestScore}";
     }
 
     private void Update()
     {
-        _scoreText.text = $"score: {Score}";
+        _scoreText.text = $"score {Score}";
         if (Score > _bestScore)
         {
             _bestScore = Score;
             PlayerPrefs.SetInt("EndlessBestScore", _bestScore);
-            _bestScoreText.text = $"best: {_bestScore}";
+            _bestScoreText.text = $"best {_bestScore}";
         }
     }
 }

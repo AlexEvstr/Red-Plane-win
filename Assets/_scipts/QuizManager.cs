@@ -75,7 +75,7 @@ public class QuizManager : MonoBehaviour
     {
         _gameVolumeController.BadAnswerSound();
         _gameOverScoreText.text = $"Your score: {EndlessScoreManager.Score}";
-
+        quizUI.HideQuestion();
         yield return new WaitForSeconds(1.0f);
 
         _scoreText.SetActive(false);

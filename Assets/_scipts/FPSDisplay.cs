@@ -21,6 +21,6 @@ public class FPSDisplay : MonoBehaviour
 
     void UpdateFPSText()
     {
-        fpsText.text = "fps: "  + Mathf.RoundToInt(fpsCounter.GetFPS()).ToString();
+        fpsText.text = Mathf.RoundToInt(fpsCounter.GetFPS()).ToString() + " fps";
     }
 }

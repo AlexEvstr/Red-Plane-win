@@ -70,7 +70,7 @@ public class LevelQuizManager : MonoBehaviour
 
             if (!quizUI.IsAnswered && remainingTime <= 0)
             {
-                GameOver();
+                StartCoroutine(GameOver());
                 yield break;
             }
 
@@ -128,7 +128,7 @@ public class LevelQuizManager : MonoBehaviour
     private IEnumerator GameOver()
     {
         _gameVolumeController.BadAnswerSound();
-        
+        quizUI.HideQuestion();
         yield return new WaitForSeconds(1.0f);
         _gameVolumeController.musicSource.volume = 0;
         _gameVolumeController.LoseSound();
