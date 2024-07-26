@@ -4,10 +4,10 @@ using TMPro;
 
 public class WallpaperSkinManager : MonoBehaviour
 {
-    public int unlockLevel; // Уровень, на котором открываются обои
-    public string wallpaperName; // Название обоев
-    public TMP_Text buttonText; // Текст на кнопке
-    public TMP_Text wallpaperNameText; // Текст для отображения названия обоев
+    public int unlockLevel;
+    public string wallpaperName;
+    public TMP_Text buttonText;
+    public TMP_Text wallpaperNameText;
     private Button _button;
 
     private void Start()
@@ -16,7 +16,6 @@ public class WallpaperSkinManager : MonoBehaviour
         int playerLevel = PlayerPrefs.GetInt("BestLevelIndex", 1);
         int equippedWallpaper = PlayerPrefs.GetInt("wallpaper", -1);
 
-        // Устанавливаем первый скин по умолчанию, если не был выбран другой
         if (equippedWallpaper == -1 && int.Parse(gameObject.name) == 0)
         {
             PlayerPrefs.SetInt("wallpaper", 0);
@@ -46,13 +45,21 @@ public class WallpaperSkinManager : MonoBehaviour
 
     private void OnButtonClick()
     {
-        // Сброс всех других кнопок на "equip"
         WallpaperSkinManager[] allButtons = FindObjectsOfType<WallpaperSkinManager>();
+        int playerLevel = PlayerPrefs.GetInt("BestLevelIndex", 1);
+
         foreach (WallpaperSkinManager btn in allButtons)
         {
             if (btn != this)
             {
-                btn.buttonText.text = "equip";
+                if (playerLevel >= btn.unlockLevel)
+                {
+                    btn.buttonText.text = "equip";
+                }
+                else
+                {
+                    btn.buttonText.text = $"unlocks at level {btn.unlockLevel}";
+                }
             }
         }
 

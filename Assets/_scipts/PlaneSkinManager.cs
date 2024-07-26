@@ -4,10 +4,10 @@ using TMPro;
 
 public class PlaneSkinManager : MonoBehaviour
 {
-    public int unlockLevel; // Уровень, на котором открывается скин самолета
-    public string planeSkinName; // Название скина самолета
-    public TMP_Text buttonText; // Текст на кнопке
-    public TMP_Text planeSkinNameText; // Текст для отображения названия скина самолета
+    public int unlockLevel;
+    public string planeSkinName;
+    public TMP_Text buttonText;
+    public TMP_Text planeSkinNameText;
     private Button _button;
     [SerializeField] private GameObject[] _planes;
 
@@ -17,7 +17,6 @@ public class PlaneSkinManager : MonoBehaviour
         int playerLevel = PlayerPrefs.GetInt("BestLevelIndex", 1);
         int equippedPlaneSkin = PlayerPrefs.GetInt("planeSkin", -1);
 
-        // Устанавливаем первый скин по умолчанию, если не был выбран другой
         if (equippedPlaneSkin == -1 && int.Parse(gameObject.name) == 0)
         {
             PlayerPrefs.SetInt("planeSkin", 0);
@@ -47,13 +46,21 @@ public class PlaneSkinManager : MonoBehaviour
 
     private void OnButtonClick()
     {
-        // Сброс всех других кнопок на "equip"
         PlaneSkinManager[] allButtons = FindObjectsOfType<PlaneSkinManager>();
+        int playerLevel = PlayerPrefs.GetInt("BestLevelIndex", 1);
+
         foreach (PlaneSkinManager btn in allButtons)
         {
             if (btn != this)
             {
-                btn.buttonText.text = "equip";
+                if (playerLevel >= btn.unlockLevel)
+                {
+                    btn.buttonText.text = "equip";
+                }
+                else
+                {
+                    btn.buttonText.text = $"unlocks at level {btn.unlockLevel}";
+                }
             }
         }
 

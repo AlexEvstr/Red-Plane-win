@@ -7,6 +7,7 @@ public class VolumeController : MonoBehaviour
     public Slider soundSlider;
     public AudioSource musicSource;
     public AudioSource soundSource;
+    public AudioClip clickSound;
 
     private const string MusicVolumeKey = "MusicVolume";
     private const string SoundVolumeKey = "SoundVolume";
@@ -38,5 +39,11 @@ public class VolumeController : MonoBehaviour
         float volume = soundSlider.value;
         soundSource.volume = volume;
         PlayerPrefs.SetFloat(SoundVolumeKey, volume);
+    }
+
+    public void ClickSound()
+    {
+        soundSource.PlayOneShot(clickSound);
+        if (VibrationMenu.isVibration) Vibration.VibrateIOS(ImpactFeedbackStyle.Soft);
     }
 }
