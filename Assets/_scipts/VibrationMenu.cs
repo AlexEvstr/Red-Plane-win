@@ -17,7 +17,7 @@ public class VibrationMenu : MonoBehaviour
         }
         isVibration = PlayerPrefs.GetInt("isVibration", 1) == 1;
         //////////
-        isVibration = false;
+        //isVibration = false;
         /////////
         _vibroMark.SetActive(isVibration);
     }

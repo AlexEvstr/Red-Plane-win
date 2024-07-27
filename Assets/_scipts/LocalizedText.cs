@@ -7,9 +7,13 @@ public class LocalizedText : MonoBehaviour
 
     private TMP_Text _text;
 
-    private void Awake()
+    private void OnEnable()
     {
         _text = GetComponent<TMP_Text>();
+        if (_text != null)
+        {
+            UpdateText();
+        }
     }
 
     private void Start()

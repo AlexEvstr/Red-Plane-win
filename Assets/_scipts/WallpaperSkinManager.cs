@@ -26,17 +26,18 @@ public class WallpaperSkinManager : MonoBehaviour
         {
             if (equippedWallpaper == int.Parse(gameObject.name))
             {
-                buttonText.text = "equipped";
+                buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equipped");
             }
             else
             {
-                buttonText.text = "equip";
+                buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equip");
             }
             _button.onClick.AddListener(OnButtonClick);
         }
         else
         {
-            buttonText.text = $"unlocks at level {unlockLevel}";
+            string unlockText = LocalizationManager.Instance.GetLocalizedValue("unlocks_at_level");
+            buttonText.text = $"{unlockText} {unlockLevel}";
             _button.interactable = false;
         }
 
@@ -54,16 +55,16 @@ public class WallpaperSkinManager : MonoBehaviour
             {
                 if (playerLevel >= btn.unlockLevel)
                 {
-                    btn.buttonText.text = "equip";
+                    btn.buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equip");
                 }
                 else
                 {
-                    btn.buttonText.text = $"unlocks at level {btn.unlockLevel}";
+                    btn.buttonText.text = $"{LocalizationManager.Instance.GetLocalizedValue("unlocks_at_level")} {btn.unlockLevel}";
                 }
             }
         }
 
         PlayerPrefs.SetInt("wallpaper", int.Parse(gameObject.name));
-        buttonText.text = "equipped";
+        buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equipped");
     }
 }

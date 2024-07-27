@@ -18,7 +18,7 @@ public class GameVolumeController : MonoBehaviour
     {
         _isVibration = PlayerPrefs.GetInt("isVibration", 1) == 1;
         /////////
-        _isVibration = false;
+        //_isVibration = false;
         /////////
         float musicVolume = PlayerPrefs.GetFloat(MusicVolumeKey, 0.75f);
         float soundVolume = PlayerPrefs.GetFloat(SoundVolumeKey, 0.75f);

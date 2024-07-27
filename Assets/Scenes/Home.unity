@@ -1749,7 +1749,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
+  m_VertexColorAlwaysGammaSpace: 1
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
@@ -1791,6 +1791,7 @@ GameObject:
   - component: {fileID: 175231928}
   - component: {fileID: 175231927}
   - component: {fileID: 175231926}
+  - component: {fileID: 175231929}
   m_Layer: 5
   m_Name: VibrationText
   m_TagString: Untagged
@@ -1921,8 +1922,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 155
-  m_fontSizeBase: 155
+  m_fontSize: 140
+  m_fontSizeBase: 140
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1971,6 +1972,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 175231924}
   m_CullTransparentMesh: 1
+--- !u!114 &175231929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 175231924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: vibration
 --- !u!1 &181586886
 GameObject:
   m_ObjectHideFlags: 0
@@ -5549,7 +5563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: Settings
+  key: settings
 --- !u!1 &420896515
 GameObject:
   m_ObjectHideFlags: 0
@@ -6149,6 +6163,7 @@ GameObject:
   - component: {fileID: 475570181}
   - component: {fileID: 475570183}
   - component: {fileID: 475570182}
+  - component: {fileID: 475570184}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -6272,6 +6287,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 475570180}
   m_CullTransparentMesh: 1
+--- !u!114 &475570184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 475570180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: backgrounds
 --- !u!1 &481863619
 GameObject:
   m_ObjectHideFlags: 0
@@ -6849,8 +6877,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7343,8 +7371,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9566,6 +9594,7 @@ GameObject:
   - component: {fileID: 765985912}
   - component: {fileID: 765985911}
   - component: {fileID: 765985910}
+  - component: {fileID: 765985913}
   m_Layer: 5
   m_Name: freeFlightBtn
   m_TagString: Untagged
@@ -9757,6 +9786,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 765985908}
   m_CullTransparentMesh: 1
+--- !u!114 &765985913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765985908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: free flight
 --- !u!1 &767377413
 GameObject:
   m_ObjectHideFlags: 0
@@ -9916,8 +9958,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -10293,6 +10335,7 @@ GameObject:
   - component: {fileID: 830792500}
   - component: {fileID: 830792502}
   - component: {fileID: 830792501}
+  - component: {fileID: 830792503}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -10416,6 +10459,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 830792499}
   m_CullTransparentMesh: 1
+--- !u!114 &830792503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830792499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: music
 --- !u!1 &840431623
 GameObject:
   m_ObjectHideFlags: 0
@@ -11156,6 +11212,7 @@ GameObject:
   - component: {fileID: 901074983}
   - component: {fileID: 901074982}
   - component: {fileID: 901074981}
+  - component: {fileID: 901074984}
   m_Layer: 5
   m_Name: levelsBtn
   m_TagString: Untagged
@@ -11347,6 +11404,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 901074979}
   m_CullTransparentMesh: 1
+--- !u!114 &901074984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 901074979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: levels
 --- !u!1 &903830472
 GameObject:
   m_ObjectHideFlags: 0
@@ -12946,7 +13016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  key: Shop
+  key: shop
 --- !u!1 &1046348413
 GameObject:
   m_ObjectHideFlags: 0
@@ -13563,6 +13633,7 @@ GameObject:
   - component: {fileID: 1095767906}
   - component: {fileID: 1095767907}
   - component: {fileID: 1095767908}
+  - component: {fileID: 1095767909}
   m_Layer: 0
   m_Name: Controller
   m_TagString: Untagged
@@ -13680,6 +13751,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _vibroMark: {fileID: 334353757}
   toggleButton: {fileID: 175231926}
+--- !u!114 &1095767909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095767901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7815036017b64323b0c7ae4afecb869, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1104107767
 GameObject:
   m_ObjectHideFlags: 0
@@ -14685,6 +14768,7 @@ GameObject:
   - component: {fileID: 1207397991}
   - component: {fileID: 1207397990}
   - component: {fileID: 1207397989}
+  - component: {fileID: 1207397992}
   m_Layer: 5
   m_Name: shopBtn
   m_TagString: Untagged
@@ -14876,6 +14960,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1207397987}
   m_CullTransparentMesh: 1
+--- !u!114 &1207397992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207397987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: shop
 --- !u!1 &1207763683
 GameObject:
   m_ObjectHideFlags: 0
@@ -18038,8 +18135,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -18219,6 +18316,7 @@ GameObject:
   - component: {fileID: 1504071859}
   - component: {fileID: 1504071858}
   - component: {fileID: 1504071860}
+  - component: {fileID: 1504071861}
   m_Layer: 5
   m_Name: ShowFpsText
   m_TagString: Untagged
@@ -18293,8 +18391,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 150
-  m_fontSizeBase: 150
+  m_fontSize: 125
+  m_fontSizeBase: 125
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -18399,6 +18497,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1504071861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504071856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: show fps
 --- !u!1 &1506983181
 GameObject:
   m_ObjectHideFlags: 0
@@ -18573,6 +18684,7 @@ GameObject:
   - component: {fileID: 1516030087}
   - component: {fileID: 1516030089}
   - component: {fileID: 1516030088}
+  - component: {fileID: 1516030090}
   m_Layer: 5
   m_Name: levelsText
   m_TagString: Untagged
@@ -18646,8 +18758,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 200
-  m_fontSizeBase: 200
+  m_fontSize: 190
+  m_fontSizeBase: 190
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -18696,6 +18808,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1516030086}
   m_CullTransparentMesh: 1
+--- !u!114 &1516030090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1516030086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: levels
 --- !u!1 &1519242361
 GameObject:
   m_ObjectHideFlags: 0
@@ -20462,8 +20587,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -20893,8 +21018,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -21177,8 +21302,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -22603,8 +22728,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -23535,6 +23660,7 @@ GameObject:
   - component: {fileID: 1985016085}
   - component: {fileID: 1985016087}
   - component: {fileID: 1985016086}
+  - component: {fileID: 1985016088}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -23658,6 +23784,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1985016084}
   m_CullTransparentMesh: 1
+--- !u!114 &1985016088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1985016084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: sound
 --- !u!1 &1986938957
 GameObject:
   m_ObjectHideFlags: 0
@@ -24179,8 +24318,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24758,6 +24897,7 @@ GameObject:
   - component: {fileID: 2070930451}
   - component: {fileID: 2070930453}
   - component: {fileID: 2070930452}
+  - component: {fileID: 2070930454}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -24881,6 +25021,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2070930450}
   m_CullTransparentMesh: 1
+--- !u!114 &2070930454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2070930450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04d5645d6964ed3a69f05d03fe3216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: planes
 --- !u!1 &2079168110
 GameObject:
   m_ObjectHideFlags: 0

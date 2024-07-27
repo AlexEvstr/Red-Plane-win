@@ -402,13 +402,137 @@
         },
 
         {
-            "key": "Shop",
+            "key": "shop",
             "value": "shop"
         },
 
         {
-            "key": "Settings",
+            "key": "settings",
             "value": "settings"
+        },
+        {
+            "key": "free flight",
+            "value": "free flight"
+        },
+
+        {
+            "key": "levels",
+            "value": "levels"
+        },
+
+        {
+            "key": "backgrounds",
+            "value": "backgrounds"
+        },
+
+        {
+            "key": "vibration",
+            "value": "vibration"
+        },
+
+        {
+            "key": "show fps",
+            "value": "show fps"
+        },
+
+        {
+            "key": "sound",
+            "value": "sound"
+        },
+
+        {
+            "key": "music",
+            "value": "music"
+        },
+
+        {
+            "key": "planes",
+            "value": "planes"
+        },
+
+        {
+            "key": "equip",
+            "value": "equip"
+        },
+
+        {
+            "key": "equipped",
+            "value": "equipped"
+        },
+
+        {
+            "key": "unlocks_at_level",
+            "value": "unlocks at level"
+        },
+
+        {
+            "key": "score",
+            "value": "score"
+        },
+
+        {
+            "key": "best",
+            "value": "best"
+        },
+
+        {
+            "key": "true",
+            "value": "true"
+        },
+
+        {
+            "key": "false",
+            "value": "false"
+        },
+
+        {
+            "key": "paused",
+            "value": "paused"
+        },
+
+        {
+            "key": "resume",
+            "value": "resume"
+        },
+
+        {
+            "key": "restart",
+            "value": "restart"
+        },
+
+        {
+            "key": "back to menu",
+            "value": "back to menu"
+        },
+
+        {
+            "key": "game over",
+            "value": "game over"
+        },
+
+        {
+            "key": "play again",
+            "value": "play again"
+        },
+
+        {
+            "key": "you win !",
+            "value": "you win !"
+        },
+
+        {
+            "key": "next level",
+            "value": "next level"
+        },
+
+        {
+            "key": "",
+            "value": ""
+        },
+
+        {
+            "key": "",
+            "value": ""
         }
 
     ]

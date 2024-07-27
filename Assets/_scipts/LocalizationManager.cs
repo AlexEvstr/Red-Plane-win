@@ -18,6 +18,7 @@ public class LocalizationManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        LoadLocalizedText(PlayerPrefs.GetString("SelectedLanguage", "en"));
     }
 
     public void LoadLocalizedText(string language)
@@ -34,7 +35,11 @@ public class LocalizationManager : MonoBehaviour
 
             foreach (LocalizationItem item in loadedData.items)
             {
-                localizedText[item.key] = item.value;
+                if (!localizedText.ContainsKey(item.key))
+                {
+                    localizedText.Add(item.key, item.value);
+                }
+                
             }
         }
     }

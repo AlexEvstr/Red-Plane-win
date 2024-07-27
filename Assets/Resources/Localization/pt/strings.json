@@ -402,13 +402,138 @@
         },
 
         {
-            "key": "Shop",
+            "key": "shop",
             "value": "comprar"
         },
 
         {
-            "key": "Settings",
+            "key": "settings",
             "value": "configurações"
+        },
+
+        {
+            "key": "free flight",
+            "value": "voo grátis"
+        },
+
+        {
+            "key": "levels",
+            "value": "níveis"
+        },
+
+        {
+            "key": "backgrounds",
+            "value": "fundos"
+        },
+
+        {
+            "key": "vibration",
+            "value": "vibração"
+        },
+
+        {
+            "key": "show fps",
+            "value": "mostrar fps"
+        },
+
+        {
+            "key": "sound",
+            "value": "som"
+        },
+
+        {
+            "key": "music",
+            "value": "música"
+        },
+
+        {
+            "key": "planes",
+            "value": "aviões"
+        },
+
+        {
+            "key": "equip",
+            "value": "equipar"
+        },
+
+        {
+            "key": "equipped",
+            "value": "equipado"
+        },
+
+        {
+            "key": "unlocks_at_level",
+            "value": "desbloqueia no nível"
+        },
+
+        {
+            "key": "score",
+            "value": "pontuação"
+        },
+
+        {
+            "key": "best",
+            "value": "melhor"
+        },
+
+        {
+            "key": "true",
+            "value": "verdadeiro"
+        },
+
+        {
+            "key": "false",
+            "value": "falso"
+        },
+
+        {
+            "key": "paused",
+            "value": "pausado"
+        },
+
+        {
+            "key": "resume",
+            "value": "retomar"
+        },
+
+        {
+            "key": "restart",
+            "value": "reiniciar"
+        },
+
+        {
+            "key": "back to menu",
+            "value": "voltar ao menu"
+        },
+
+        {
+            "key": "game over",
+            "value": "fim de jogo"
+        },
+
+        {
+            "key": "play again",
+            "value": "jogar novamente"
+        },
+
+        {
+            "key": "you win !",
+            "value": "você venceu !"
+        },
+
+        {
+            "key": "next level",
+            "value": "próximo nível"
+        },
+
+        {
+            "key": "",
+            "value": ""
+        },
+
+        {
+            "key": "",
+            "value": ""
         }
     ]
 }

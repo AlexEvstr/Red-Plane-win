@@ -11,7 +11,7 @@ public class PlaneSkinManager : MonoBehaviour
     private Button _button;
     [SerializeField] private GameObject[] _planes;
 
-    private void Start()
+    private void OnEnable()
     {
         _button = GetComponent<Button>();
         int playerLevel = PlayerPrefs.GetInt("BestLevelIndex", 1);
@@ -27,17 +27,17 @@ public class PlaneSkinManager : MonoBehaviour
         {
             if (equippedPlaneSkin == int.Parse(gameObject.name))
             {
-                buttonText.text = "equipped";
+                buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equipped");
             }
             else
             {
-                buttonText.text = "equip";
+                buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equip");
             }
             _button.onClick.AddListener(OnButtonClick);
         }
         else
         {
-            buttonText.text = $"unlocks at level {unlockLevel}";
+            buttonText.text = $"{LocalizationManager.Instance.GetLocalizedValue("unlocks_at_level")} {unlockLevel}";
             _button.interactable = false;
         }
 
@@ -55,17 +55,17 @@ public class PlaneSkinManager : MonoBehaviour
             {
                 if (playerLevel >= btn.unlockLevel)
                 {
-                    btn.buttonText.text = "equip";
+                    btn.buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equip");
                 }
                 else
                 {
-                    btn.buttonText.text = $"unlocks at level {btn.unlockLevel}";
+                    btn.buttonText.text = $"{LocalizationManager.Instance.GetLocalizedValue("unlocks_at_level")} {btn.unlockLevel}";
                 }
             }
         }
 
         PlayerPrefs.SetInt("planeSkin", int.Parse(gameObject.name));
-        buttonText.text = "equipped";
+        buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equipped");
 
         for (int i = 0; i < _planes.Length; i++)
         {
