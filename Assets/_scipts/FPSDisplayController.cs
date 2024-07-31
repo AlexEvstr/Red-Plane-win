@@ -15,7 +15,7 @@ public class FPSDisplayController : MonoBehaviour
 
         if (!PlayerPrefs.HasKey(ShowFPSKey))
         {
-            PlayerPrefs.SetInt(ShowFPSKey, 1); // По умолчанию включаем показ FPS
+            PlayerPrefs.SetInt(ShowFPSKey, 1);
         }
 
         showFPS = PlayerPrefs.GetInt(ShowFPSKey, 1) == 1;

@@ -9,6 +9,8 @@ public class WallpaperSkinManager : MonoBehaviour
     public TMP_Text buttonText;
     public TMP_Text wallpaperNameText;
     private Button _button;
+    [SerializeField] private Image _wallpaper;
+    [SerializeField] private Sprite[] _wallpapers;
 
     private void Start()
     {
@@ -66,5 +68,6 @@ public class WallpaperSkinManager : MonoBehaviour
 
         PlayerPrefs.SetInt("wallpaper", int.Parse(gameObject.name));
         buttonText.text = LocalizationManager.Instance.GetLocalizedValue("equipped");
+        _wallpaper.sprite = _wallpapers[PlayerPrefs.GetInt("wallpaper", 0)];
     }
 }

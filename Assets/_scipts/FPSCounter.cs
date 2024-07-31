@@ -5,7 +5,7 @@ public class FPSCounter : MonoBehaviour
     private int frameCount = 0;
     private float dt = 0.0f;
     private float fps = 0.0f;
-    private float updateRate = 4.0f;  // Число обновлений в секунду
+    private float updateRate = 4.0f;
 
     void Update()
     {

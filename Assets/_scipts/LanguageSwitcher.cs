@@ -24,7 +24,7 @@ public class LanguageSwitcher : MonoBehaviour
         PlayerPrefs.Save();
         UpdateAllTexts();
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Перезагрузка текущей сцены для применения изменений
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     private void UpdateAllTexts()

@@ -44,6 +44,5 @@ public class VolumeController : MonoBehaviour
     public void ClickSound()
     {
         soundSource.PlayOneShot(clickSound);
-        if (VibrationMenu.isVibration) Vibration.VibrateIOS(ImpactFeedbackStyle.Soft);
     }
 }

@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class GameLevelManager : MonoBehaviour
@@ -8,6 +6,7 @@ public class GameLevelManager : MonoBehaviour
 
     private void Start()
     {
+        Screen.orientation = ScreenOrientation.Portrait;
         Level = PlayerPrefs.GetInt("LevelIndex", 0);
     }
 }
