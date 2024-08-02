@@ -1,0 +1,697 @@
+{
+    "items": [
+        {
+            "key": "question1",
+            "value": "Un avion peut voler sans ailes."
+        },
+        {
+            "key": "question2",
+            "value": "Les frères Wright ont inventé le premier avion réussi."
+        },
+        {
+            "key": "question3",
+            "value": "Un moteur à réaction utilise une hélice pour générer de la poussée."
+        },
+        {
+            "key": "question4",
+            "value": "La boîte noire d'un avion est en fait orange."
+        },
+        {
+            "key": "question5",
+            "value": "Tous les avions ont le même nombre de moteurs."
+        },
+        {
+            "key": "question6",
+            "value": "Les ailes d'un avion sont conçues pour générer de la portance."
+        },
+        {
+            "key": "question7",
+            "value": "Les avions ne peuvent voler que pendant la journée."
+        },
+        {
+            "key": "question8",
+            "value": "La queue d'un avion aide à la stabilité."
+        },
+        {
+            "key": "question9",
+            "value": "Un pilote a besoin d'une licence pour piloter un avion."
+        },
+        {
+            "key": "question10",
+            "value": "Les avions ne peuvent pas voler sous la pluie."
+        },
+        {
+            "key": "question11",
+            "value": "Un hélicoptère est un type d'avion."
+        },
+        {
+            "key": "question12",
+            "value": "Les avions commerciaux ont généralement un agent de bord."
+        },
+        {
+            "key": "question13",
+            "value": "Le cockpit est l'endroit où les passagers s'assoient."
+        },
+        {
+            "key": "question14",
+            "value": "Les avions peuvent voyager plus vite que la vitesse du son."
+        },
+        {
+            "key": "question15",
+            "value": "Le fuselage est le corps principal d'un avion."
+        },
+        {
+            "key": "question16",
+            "value": "Les avions ne peuvent décoller que des aéroports."
+        },
+        {
+            "key": "question17",
+            "value": "Le train d'atterrissage est utilisé pendant le décollage et l'atterrissage."
+        },
+        {
+            "key": "question18",
+            "value": "Les ailes d'un avion ne peuvent pas être déplacées."
+        },
+        {
+            "key": "question19",
+            "value": "Un système de pilote automatique peut piloter un avion sans intervention humaine."
+        },
+        {
+            "key": "question20",
+            "value": "Tous les avions ont une altitude maximale qu'ils peuvent atteindre."
+        },
+        {
+            "key": "question21",
+            "value": "La vitesse d'un avion est mesurée en nœuds."
+        },
+        {
+            "key": "question22",
+            "value": "Un avion propulsé par hélice est appelé un jet."
+        },
+        {
+            "key": "question23",
+            "value": "Les avions ont besoin de réservoirs d'oxygène pour fournir de l'air aux passagers."
+        },
+        {
+            "key": "question24",
+            "value": "Les volets sur les ailes d'un avion aident à le ralentir."
+        },
+        {
+            "key": "question25",
+            "value": "Un jumbo jet est un type de grand avion de passagers."
+        },
+        {
+            "key": "question26",
+            "value": "L'altimètre d'un avion mesure la vitesse."
+        },
+        {
+            "key": "question27",
+            "value": "Tous les avions ont un copilote."
+        },
+        {
+            "key": "question28",
+            "value": "Le Concorde était un avion de passagers supersonique."
+        },
+        {
+            "key": "question29",
+            "value": "Le moteur d'un avion peut fonctionner à l'électricité."
+        },
+        {
+            "key": "question30",
+            "value": "Le stabilisateur vertical est situé sur la queue de l'avion."
+        },
+        {
+            "key": "question31",
+            "value": "Les avions ne peuvent voler que par temps clair."
+        },
+        {
+            "key": "question32",
+            "value": "Un biplan a deux ensembles d'ailes."
+        },
+        {
+            "key": "question33",
+            "value": "Les avions peuvent être utilisés pour lutter contre les incendies."
+        },
+        {
+            "key": "question34",
+            "value": "Le train d'atterrissage est toujours déployé en vol."
+        },
+        {
+            "key": "question35",
+            "value": "Le gouvernail contrôle le lacet d'un avion."
+        },
+        {
+            "key": "question36",
+            "value": "Les avions sont alimentés par l'énergie solaire."
+        },
+        {
+            "key": "question37",
+            "value": "L'altitude d'un avion est mesurée en pieds ou en mètres."
+        },
+        {
+            "key": "question38",
+            "value": "Le premier vol en avion a eu lieu au 18e siècle."
+        },
+        {
+            "key": "question39",
+            "value": "Les avions peuvent être ravitaillés en vol."
+        },
+        {
+            "key": "question40",
+            "value": "Les ailerons contrôlent le roulis d'un avion."
+        },
+        {
+            "key": "question41",
+            "value": "Tous les avions sont équipés de parachutes."
+        },
+        {
+            "key": "question42",
+            "value": "La vitesse d'un avion peut être affectée par le vent."
+        },
+        {
+            "key": "question43",
+            "value": "Les ailes d'un avion peuvent changer de forme."
+        },
+        {
+            "key": "question44",
+            "value": "Un avion peut se maintenir en place comme un hélicoptère."
+        },
+        {
+            "key": "question45",
+            "value": "Le F-22 Raptor est un type d'avion militaire."
+        },
+        {
+            "key": "question46",
+            "value": "Les avions ne peuvent pas être utilisés pour le transport de marchandises."
+        },
+        {
+            "key": "question47",
+            "value": "L'envergure d'un avion affecte sa portance."
+        },
+        {
+            "key": "question48",
+            "value": "Les avions sont toujours plus rapides que les voitures."
+        },
+        {
+            "key": "question49",
+            "value": "Le Boeing 747 est connu sous le nom de «Reine des cieux»."
+        },
+        {
+            "key": "question50",
+            "value": "Les avions n'ont qu'une méthode de contrôle de la direction."
+        },
+        {
+            "key": "question51",
+            "value": "Un hydravion peut atterrir sur l'eau."
+        },
+        {
+            "key": "question52",
+            "value": "Les avions ont toujours un pilote de secours."
+        },
+        {
+            "key": "question53",
+            "value": "L'angle d'attaque affecte la portance générée par un avion."
+        },
+        {
+            "key": "question54",
+            "value": "Les avions peuvent voler à l'envers."
+        },
+        {
+            "key": "question55",
+            "value": "Tous les avions ont quatre moteurs."
+        },
+        {
+            "key": "question56",
+            "value": "La fonction principale de l'élévateur est de contrôler le tangage."
+        },
+        {
+            "key": "question57",
+            "value": "Un avion de ligne est un type d'avion commercial."
+        },
+        {
+            "key": "question58",
+            "value": "Les avions ne peuvent pas voler au-dessus des montagnes."
+        },
+        {
+            "key": "question59",
+            "value": "Les avions sont utilisés pour les évacuations médicales."
+        },
+        {
+            "key": "question60",
+            "value": "La vitesse maximale d'un avion est appelée vitesse de décrochage."
+        },
+        {
+            "key": "question61",
+            "value": "Les avions peuvent décoller verticalement comme des fusées."
+        },
+        {
+            "key": "question62",
+            "value": "Les ailes d'un avion génèrent de la poussée."
+        },
+        {
+            "key": "question63",
+            "value": "Le terme «mayday» est utilisé pour signaler une situation de détresse en aviation."
+        },
+        {
+            "key": "question64",
+            "value": "Tous les avions sont en métal."
+        },
+        {
+            "key": "question65",
+            "value": "Les ailes d'un avion sont toujours alignées avec le fuselage."
+        },
+        {
+            "key": "question66",
+            "value": "Le gouvernail d'un avion contrôle son altitude."
+        },
+        {
+            "key": "question67",
+            "value": "Le premier vol motorisé a eu lieu en 1903."
+        },
+        {
+            "key": "question68",
+            "value": "Les avions peuvent voler en arrière."
+        },
+        {
+            "key": "question69",
+            "value": "Les feux de navigation d'un avion l'aident à atterrir la nuit."
+        },
+        {
+            "key": "question70",
+            "value": "Les avions peuvent être contrôlés à distance."
+        },
+        {
+            "key": "question71",
+            "value": "Le F-16 est un avion commercial."
+        },
+        {
+            "key": "question72",
+            "value": "Les avions peuvent transporter des marchandises et des passagers en même temps."
+        },
+        {
+            "key": "question73",
+            "value": "Le nez d'un avion est appelé l'étrave."
+        },
+        {
+            "key": "question74",
+            "value": "Les avions utilisent des volets pour augmenter la portance pendant le décollage."
+        },
+        {
+            "key": "question75",
+            "value": "Les avions ne peuvent pas être utilisés pour la recherche scientifique."
+        },
+        {
+            "key": "question76",
+            "value": "Le stabilisateur vertical est utilisé pour contrôler le roulis d'un avion."
+        },
+        {
+            "key": "question77",
+            "value": "Les avions ne peuvent être pilotés que par des humains."
+        },
+        {
+            "key": "question78",
+            "value": "Le train d'atterrissage est rétracté après le décollage."
+        },
+        {
+            "key": "question79",
+            "value": "Les avions ont un poids maximal au décollage."
+        },
+        {
+            "key": "question80",
+            "value": "Les ailes d'un avion sont utilisées pour générer de la poussée."
+        },
+        {
+            "key": "question81",
+            "value": "Un avion ne peut pas voler avec un seul moteur en fonctionnement."
+        },
+        {
+            "key": "question82",
+            "value": "Le Concorde pouvait voyager à deux fois la vitesse du son."
+        },
+        {
+            "key": "question83",
+            "value": "Les volets d'un avion sont utilisés pour contrôler le lacet."
+        },
+        {
+            "key": "question84",
+            "value": "Le Wright Flyer était le premier avion motorisé."
+        },
+        {
+            "key": "question85",
+            "value": "Les avions ne peuvent pas voler à travers les nuages."
+        },
+        {
+            "key": "question86",
+            "value": "La queue d'un avion aide à contrôler sa direction."
+        },
+        {
+            "key": "question87",
+            "value": "Les avions ne peuvent pas voler à plus de 500 miles par heure."
+        },
+        {
+            "key": "question88",
+            "value": "Le Boeing 737 est un type de jet de chasse."
+        },
+        {
+            "key": "question89",
+            "value": "Les ailes d'un avion sont toujours plates."
+        },
+        {
+            "key": "question90",
+            "value": "Le gouvernail fait partie de l'assemblage de la queue d'un avion."
+        },
+        {
+            "key": "question91",
+            "value": "Les avions peuvent être ravitaillés en vol."
+        },
+        {
+            "key": "question92",
+            "value": "Le nez d'un avion affecte son aérodynamisme."
+        },
+        {
+            "key": "question93",
+            "value": "Les avions peuvent voler en ligne droite indéfiniment."
+        },
+        {
+            "key": "question94",
+            "value": "Un avion peut atterrir sans son train d'atterrissage."
+        },
+        {
+            "key": "question95",
+            "value": "Les avions doivent suivre des trajectoires de vol spécifiques."
+        },
+        {
+            "key": "question96",
+            "value": "Le F-35 Lightning II est un type d'avion commercial."
+        },
+        {
+            "key": "question97",
+            "value": "Les ailerons aident à contrôler le roulis d'un avion."
+        },
+        {
+            "key": "question98",
+            "value": "Les ailes d'un avion peuvent être pliées."
+        },
+        {
+            "key": "question99",
+            "value": "Les avions peuvent décoller de l'eau."
+        },
+        {
+            "key": "question100",
+            "value": "Le Concorde était connu pour sa lenteur."
+        },
+        {
+            "key": "question101",
+            "value": "Les avions volent grâce à la portance générée par les ailes."
+        },
+        {
+            "key": "question102",
+            "value": "Le premier avion commercial était le Boeing 747."
+        },
+        {
+            "key": "question103",
+            "value": "Les moteurs d'avion peuvent fonctionner à l'hydrogène."
+        },
+        {
+            "key": "question104",
+            "value": "Les contrôleurs aériens ne travaillent que pendant la journée."
+        },
+        {
+            "key": "question105",
+            "value": "Il y a deux manches dans le cockpit."
+        },
+        {
+            "key": "question106",
+            "value": "Tous les avions ont une boîte noire."
+        },
+        {
+            "key": "question107",
+            "value": "Les avions modernes peuvent voler sans équipage."
+        },
+        {
+            "key": "question108",
+            "value": "L'équipage d'un avion est toujours composé d'un pilote et d'un copilote."
+        },
+        {
+            "key": "question109",
+            "value": "Les premiers avions utilisaient des hélices en bois."
+        },
+        {
+            "key": "question110",
+            "value": "Les avions volent à une altitude d'environ 10 000 mètres."
+        },
+        {
+            "key": "question111",
+            "value": "Charles Lindbergh a été la première personne à traverser l'Atlantique en solo."
+        },
+        {
+            "key": "question112",
+            "value": "La traînée aide un avion à décoller."
+        },
+        {
+            "key": "question113",
+            "value": "L'Airbus A380 est le plus grand avion de passagers au monde."
+        },
+        {
+            "key": "question114",
+            "value": "Un avion peut faire un tour de 360 degrés dans les airs."
+        },
+        {
+            "key": "question115",
+            "value": "Les ailes des avions peuvent changer de forme en vol."
+        },
+        {
+            "key": "question116",
+            "value": "Les avions modernes peuvent résister aux coups de foudre."
+        },
+        {
+            "key": "question117",
+            "value": "Tous les avions de passagers ont deux moteurs."
+        },
+        {
+            "key": "question118",
+            "value": "Les avions de passagers ne peuvent pas voler la nuit."
+        },
+        {
+            "key": "question119",
+            "value": "Le transport aérien est le mode de transport le plus sûr."
+        },
+        {
+            "key": "question120",
+            "value": "Pendant le vol, les passagers peuvent marcher sur l'aile de l'avion."
+        },
+        {
+            "key": "question121",
+            "value": "Le décollage et l'atterrissage sont les phases les plus dangereuses d'un vol."
+        },
+        {
+            "key": "question122",
+            "value": "Un avion peut être ravitaillé en vol."
+        },
+        {
+            "key": "question123",
+            "value": "Un avion peut voler si un moteur tombe en panne."
+        },
+        {
+            "key": "question124",
+            "value": "Les avions ne peuvent pas voler sous la pluie."
+        },
+        {
+            "key": "question125",
+            "value": "Les pilotes peuvent dormir pendant le vol."
+        },
+        {
+            "key": "question126",
+            "value": "Les avions de passagers ont des radeaux de sauvetage."
+        },
+        {
+            "key": "question127",
+            "value": "L'altitude de vol affecte l'efficacité énergétique de l'avion."
+        },
+        {
+            "key": "question128",
+            "value": "Le premier avion à réaction a été créé dans les années 1950."
+        },
+        {
+            "key": "question129",
+            "value": "Les avions modernes utilisent l'énergie solaire."
+        },
+        {
+            "key": "question130",
+            "value": "Le Concorde était un avion de passagers supersonique."
+        },
+        {
+            "key": "question131",
+            "value": "Chaque avion a un code unique."
+        },
+        {
+            "key": "question132",
+            "value": "Les avions suivent toujours une ligne droite du point A au point B."
+        },
+        {
+            "key": "question133",
+            "value": "Il y a des toilettes dans le cockpit."
+        },
+        {
+            "key": "question134",
+            "value": "Les pilotes subissent des examens médicaux avant chaque vol."
+        },
+        {
+            "key": "question135",
+            "value": "Les avions peuvent atterrir sur l'eau."
+        },
+        {
+            "key": "question136",
+            "value": "Les passagers peuvent utiliser des téléphones portables pendant le décollage et l'atterrissage."
+        },
+        {
+            "key": "question137",
+            "value": "Les agents de bord sont formés pour prodiguer les premiers secours."
+        },
+        {
+            "key": "question138",
+            "value": "Les avions peuvent se désintégrer en cas de turbulence."
+        },
+        {
+            "key": "question139",
+            "value": "Voler affecte notre rythme biologique."
+        },
+        {
+            "key": "question140",
+            "value": "Tous les avions ont un système de pilote automatique."
+        },
+        {
+            "key": "question141",
+            "value": "Il y a des fenêtres dans le cockpit qui peuvent être ouvertes."
+        },
+        {
+            "key": "question142",
+            "value": "Les passagers peuvent piloter l'avion en cas d'urgence."
+        },
+        {
+            "key": "question143",
+            "value": "Les systèmes de navigation aéronautique utilisent le GPS."
+        },
+        {
+            "key": "question144",
+            "value": "Des essais en vol sont réalisés pour chaque nouvel avion."
+        },
+        {
+            "key": "question145",
+            "value": "Certains avions ont une salle de sport pour les passagers."
+        },
+        {
+            "key": "shop",
+            "value": "boutique"
+        },
+        {
+            "key": "settings",
+            "value": "paramètres"
+        },
+        {
+            "key": "free flight",
+            "value": "vol libre"
+        },
+        {
+            "key": "levels",
+            "value": "niveaux"
+        },
+        {
+            "key": "backgrounds",
+            "value": "fonds d'écran"
+        },
+        {
+            "key": "vibration",
+            "value": "vibration"
+        },
+        {
+            "key": "show fps",
+            "value": "afficher les fps"
+        },
+        {
+            "key": "sound",
+            "value": "son"
+        },
+        {
+            "key": "music",
+            "value": "musique"
+        },
+        {
+            "key": "planes",
+            "value": "avions"
+        },
+        {
+            "key": "equip",
+            "value": "équiper"
+        },
+        {
+            "key": "equipped",
+            "value": "équipé"
+        },
+        {
+            "key": "unlocks_at_level",
+            "value": "se débloque au niveau"
+        },
+        {
+            "key": "score",
+            "value": "score"
+        },
+        {
+            "key": "best",
+            "value": "meilleur"
+        },
+        {
+            "key": "true",
+            "value": "vrai"
+        },
+        {
+            "key": "false",
+            "value": "faux"
+        },
+        {
+            "key": "paused",
+            "value": "en pause"
+        },
+        {
+            "key": "resume",
+            "value": "reprendre"
+        },
+        {
+            "key": "restart",
+            "value": "redémarrer"
+        },
+        {
+            "key": "back to menu",
+            "value": "retour au menu"
+        },
+        {
+            "key": "game over",
+            "value": "fin de partie"
+        },
+        {
+            "key": "play again",
+            "value": "rejouer"
+        },
+        {
+            "key": "you win !",
+            "value": "vous gagnez !"
+        },
+        {
+            "key": "next level",
+            "value": "niveau suivant"
+        },
+        {
+            "key": "privacy policy",
+            "value": "politique de confidentialité"
+        },
+        {
+            "key": "rate us",
+            "value": "évaluez-nous"
+        },
+
+        {
+            "key": "language",
+            "value": "langue"
+        }
+    ]
+}

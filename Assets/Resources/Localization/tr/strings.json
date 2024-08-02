@@ -1,0 +1,697 @@
+{
+    "items": [
+        {
+            "key": "question1",
+            "value": "Bir uçak kanatsız uçabilir."
+        },
+        {
+            "key": "question2",
+            "value": "Wright kardeşler ilk başarılı uçağı icat etti."
+        },
+        {
+            "key": "question3",
+            "value": "Bir jet motoru itme kuvveti üretmek için pervane kullanır."
+        },
+        {
+            "key": "question4",
+            "value": "Bir uçağın kara kutusu aslında turuncudur."
+        },
+        {
+            "key": "question5",
+            "value": "Tüm uçakların motor sayısı aynıdır."
+        },
+        {
+            "key": "question6",
+            "value": "Bir uçağın kanatları kaldırma kuvveti üretmek için tasarlanmıştır."
+        },
+        {
+            "key": "question7",
+            "value": "Uçaklar sadece gündüz uçabilir."
+        },
+        {
+            "key": "question8",
+            "value": "Bir uçağın kuyruğu dengeye yardımcı olur."
+        },
+        {
+            "key": "question9",
+            "value": "Bir pilotun uçak kullanmak için lisansa ihtiyacı vardır."
+        },
+        {
+            "key": "question10",
+            "value": "Uçaklar yağmurda uçamaz."
+        },
+        {
+            "key": "question11",
+            "value": "Bir helikopter bir tür uçaktır."
+        },
+        {
+            "key": "question12",
+            "value": "Ticari uçaklarda genellikle bir kabin memuru bulunur."
+        },
+        {
+            "key": "question13",
+            "value": "Kokpit yolcuların oturduğu yerdir."
+        },
+        {
+            "key": "question14",
+            "value": "Uçaklar ses hızından daha hızlı seyahat edebilir."
+        },
+        {
+            "key": "question15",
+            "value": "Gövde, bir uçağın ana gövdesidir."
+        },
+        {
+            "key": "question16",
+            "value": "Uçaklar sadece havaalanlarından kalkış yapabilir."
+        },
+        {
+            "key": "question17",
+            "value": "İniş takımı kalkış ve iniş sırasında kullanılır."
+        },
+        {
+            "key": "question18",
+            "value": "Bir uçağın kanatları hareket ettirilemez."
+        },
+        {
+            "key": "question19",
+            "value": "Otopilot sistemi insan müdahalesi olmadan bir uçağı uçurabilir."
+        },
+        {
+            "key": "question20",
+            "value": "Tüm uçakların uçabileceği maksimum irtifa vardır."
+        },
+        {
+            "key": "question21",
+            "value": "Bir uçağın hızı deniz mili ile ölçülür."
+        },
+        {
+            "key": "question22",
+            "value": "Pervane ile çalışan bir uçağa jet denir."
+        },
+        {
+            "key": "question23",
+            "value": "Uçaklar yolculara hava sağlamak için oksijen tanklarına ihtiyaç duyar."
+        },
+        {
+            "key": "question24",
+            "value": "Bir uçağın kanatlarındaki flaplar, yavaşlamasına yardımcı olur."
+        },
+        {
+            "key": "question25",
+            "value": "Bir jumbo jet, büyük yolcu uçaklarının bir türüdür."
+        },
+        {
+            "key": "question26",
+            "value": "Bir uçağın altimetresi hızı ölçer."
+        },
+        {
+            "key": "question27",
+            "value": "Tüm uçaklarda bir yardımcı pilot bulunur."
+        },
+        {
+            "key": "question28",
+            "value": "Concorde bir süpersonik yolcu uçağıydı."
+        },
+        {
+            "key": "question29",
+            "value": "Bir uçağın motoru elektrikle çalışabilir."
+        },
+        {
+            "key": "question30",
+            "value": "Dikey dengeleyici, uçağın kuyruğunda bulunur."
+        },
+        {
+            "key": "question31",
+            "value": "Uçaklar sadece açık havada uçabilir."
+        },
+        {
+            "key": "question32",
+            "value": "Bir çift kanatlı uçakta iki set kanat bulunur."
+        },
+        {
+            "key": "question33",
+            "value": "Uçaklar yangın söndürme için kullanılabilir."
+        },
+        {
+            "key": "question34",
+            "value": "İniş takımı uçuş sırasında her zaman uzatılmış durumdadır."
+        },
+        {
+            "key": "question35",
+            "value": "Bir uçağın yön dümeni yatışını kontrol eder."
+        },
+        {
+            "key": "question36",
+            "value": "Uçaklar güneş enerjisi ile çalışır."
+        },
+        {
+            "key": "question37",
+            "value": "Bir uçağın irtifası ayak veya metre olarak ölçülür."
+        },
+        {
+            "key": "question38",
+            "value": "İlk uçak uçuşu 18. yüzyıldaydı."
+        },
+        {
+            "key": "question39",
+            "value": "Uçaklar havada iken yakıt ikmali yapılabilir."
+        },
+        {
+            "key": "question40",
+            "value": "Kanatlar, bir uçağın yuvarlanmasını kontrol eder."
+        },
+        {
+            "key": "question41",
+            "value": "Tüm uçaklar paraşütle donatılmıştır."
+        },
+        {
+            "key": "question42",
+            "value": "Bir uçağın hızı rüzgar tarafından etkilenebilir."
+        },
+        {
+            "key": "question43",
+            "value": "Bir uçağın kanatları şekil değiştirebilir."
+        },
+        {
+            "key": "question44",
+            "value": "Bir uçak, bir helikopter gibi yerinde kalabilir."
+        },
+        {
+            "key": "question45",
+            "value": "F-22 Raptor, bir tür askeri uçaktır."
+        },
+        {
+            "key": "question46",
+            "value": "Uçaklar kargo taşımacılığı için kullanılamaz."
+        },
+        {
+            "key": "question47",
+            "value": "Bir uçağın kanat açıklığı, kaldırma kuvvetini etkiler."
+        },
+        {
+            "key": "question48",
+            "value": "Uçaklar her zaman arabalardan daha hızlıdır."
+        },
+        {
+            "key": "question49",
+            "value": "Boeing 747, 'Gökyüzünün Kraliçesi' olarak bilinir."
+        },
+        {
+            "key": "question50",
+            "value": "Uçakların yönünü kontrol etmenin sadece bir yöntemi vardır."
+        },
+        {
+            "key": "question51",
+            "value": "Bir deniz uçağı suya inebilir."
+        },
+        {
+            "key": "question52",
+            "value": "Uçaklarda her zaman yedek bir pilot bulunur."
+        },
+        {
+            "key": "question53",
+            "value": "Saldırı açısı, bir uçağın ürettiği kaldırma kuvvetini etkiler."
+        },
+        {
+            "key": "question54",
+            "value": "Uçaklar ters uçabilir."
+        },
+        {
+            "key": "question55",
+            "value": "Tüm uçakların dört motoru vardır."
+        },
+        {
+            "key": "question56",
+            "value": "Yükseliş kontrol yüzeyinin ana işlevi, eğimi kontrol etmektir."
+        },
+        {
+            "key": "question57",
+            "value": "Bir havayolu uçağı, bir tür ticari uçaktır."
+        },
+        {
+            "key": "question58",
+            "value": "Uçaklar dağların üzerinden uçamaz."
+        },
+        {
+            "key": "question59",
+            "value": "Uçaklar tıbbi tahliyeler için kullanılır."
+        },
+        {
+            "key": "question60",
+            "value": "Bir uçağın maksimum hızı, stall hızı olarak adlandırılır."
+        },
+        {
+            "key": "question61",
+            "value": "Uçaklar roketler gibi dikey olarak kalkış yapabilir."
+        },
+        {
+            "key": "question62",
+            "value": "Bir uçağın kanatları itme kuvveti üretir."
+        },
+        {
+            "key": "question63",
+            "value": "Havacılıkta bir tehlike durumu sinyali vermek için 'mayday' terimi kullanılır."
+        },
+        {
+            "key": "question64",
+            "value": "Tüm uçaklar metalden yapılmıştır."
+        },
+        {
+            "key": "question65",
+            "value": "Bir uçağın kanatları her zaman gövde ile aynı hizada olur."
+        },
+        {
+            "key": "question66",
+            "value": "Bir uçağın yön dümeni, irtifasını kontrol eder."
+        },
+        {
+            "key": "question67",
+            "value": "İlk motorlu uçuş 1903'te gerçekleşti."
+        },
+        {
+            "key": "question68",
+            "value": "Uçaklar geriye doğru uçabilir."
+        },
+        {
+            "key": "question69",
+            "value": "Bir uçağın navigasyon ışıkları, gece iniş yapmasına yardımcı olur."
+        },
+        {
+            "key": "question70",
+            "value": "Uçaklar uzaktan kontrol edilebilir."
+        },
+        {
+            "key": "question71",
+            "value": "F-16 bir ticari uçaktır."
+        },
+        {
+            "key": "question72",
+            "value": "Uçaklar aynı anda hem kargo hem de yolcu taşıyabilir."
+        },
+        {
+            "key": "question73",
+            "value": "Bir uçağın burnu, baş olarak adlandırılır."
+        },
+        {
+            "key": "question74",
+            "value": "Uçaklar kalkış sırasında kaldırma kuvvetini artırmak için flap kullanır."
+        },
+        {
+            "key": "question75",
+            "value": "Uçaklar bilimsel araştırmalar için kullanılamaz."
+        },
+        {
+            "key": "question76",
+            "value": "Dikey dengeleyici, bir uçağın yuvarlanmasını kontrol etmek için kullanılır."
+        },
+        {
+            "key": "question77",
+            "value": "Uçaklar sadece insanlar tarafından uçurulabilir."
+        },
+        {
+            "key": "question78",
+            "value": "İniş takımı kalkıştan sonra geri çekilir."
+        },
+        {
+            "key": "question79",
+            "value": "Uçakların maksimum kalkış ağırlığı vardır."
+        },
+        {
+            "key": "question80",
+            "value": "Bir uçağın kanatları itme kuvveti üretmek için kullanılır."
+        },
+        {
+            "key": "question81",
+            "value": "Bir uçağın yalnızca bir motoru çalışıyorsa, uçuş yapamaz."
+        },
+        {
+            "key": "question82",
+            "value": "Concorde, ses hızının iki katında seyahat edebilirdi."
+        },
+        {
+            "key": "question83",
+            "value": "Bir uçağın flapları, yön kontrolü için kullanılır."
+        },
+        {
+            "key": "question84",
+            "value": "Wright Flyer, ilk motorlu uçaktı."
+        },
+        {
+            "key": "question85",
+            "value": "Uçaklar bulutların içinden uçamaz."
+        },
+        {
+            "key": "question86",
+            "value": "Bir uçağın kuyruğu, yönünü kontrol etmeye yardımcı olur."
+        },
+        {
+            "key": "question87",
+            "value": "Uçaklar saatte 500 milden daha hızlı uçamaz."
+        },
+        {
+            "key": "question88",
+            "value": "Boeing 737 bir savaş uçağıdır."
+        },
+        {
+            "key": "question89",
+            "value": "Bir uçağın kanatları her zaman düzdür."
+        },
+        {
+            "key": "question90",
+            "value": "Yön dümeni, bir uçağın kuyruk takımının bir parçasıdır."
+        },
+        {
+            "key": "question91",
+            "value": "Uçaklar uçarken yakıt ikmali yapılabilir."
+        },
+        {
+            "key": "question92",
+            "value": "Bir uçağın burnu, aerodinamiğini etkiler."
+        },
+        {
+            "key": "question93",
+            "value": "Uçaklar, bir çizgi boyunca süresiz olarak uçabilir."
+        },
+        {
+            "key": "question94",
+            "value": "Bir uçak, iniş takımı olmadan inebilir."
+        },
+        {
+            "key": "question95",
+            "value": "Uçaklar belirli uçuş yollarını takip etmek zorundadır."
+        },
+        {
+            "key": "question96",
+            "value": "F-35 Lightning II, bir tür ticari uçaktır."
+        },
+        {
+            "key": "question97",
+            "value": "Aileronlar, bir uçağın yuvarlanmasını kontrol etmeye yardımcı olur."
+        },
+        {
+            "key": "question98",
+            "value": "Bir uçağın kanatları katlanabilir."
+        },
+        {
+            "key": "question99",
+            "value": "Uçaklar sudan kalkış yapabilir."
+        },
+        {
+            "key": "question100",
+            "value": "Concorde, yavaş hızıyla tanınıyordu."
+        },
+        {
+            "key": "question101",
+            "value": "Uçaklar, kanatlar tarafından üretilen kaldırma kuvveti sayesinde uçar."
+        },
+        {
+            "key": "question102",
+            "value": "İlk ticari uçak Boeing 747 idi."
+        },
+        {
+            "key": "question103",
+            "value": "Uçak motorları hidrojenle çalışabilir."
+        },
+        {
+            "key": "question104",
+            "value": "Hava trafik kontrolörleri sadece gündüz çalışır."
+        },
+        {
+            "key": "question105",
+            "value": "Kokpitte iki yoke vardır."
+        },
+        {
+            "key": "question106",
+            "value": "Tüm uçaklarda kara kutu vardır."
+        },
+        {
+            "key": "question107",
+            "value": "Modern uçaklar mürettebatsız uçabilir."
+        },
+        {
+            "key": "question108",
+            "value": "Uçak mürettebatı her zaman bir pilot ve bir yardımcı pilottan oluşur."
+        },
+        {
+            "key": "question109",
+            "value": "Erken dönem uçaklar ahşap pervaneler kullanıyordu."
+        },
+        {
+            "key": "question110",
+            "value": "Uçaklar yaklaşık 10.000 metre irtifada uçar."
+        },
+        {
+            "key": "question111",
+            "value": "Charles Lindbergh, Atlantik'i solo uçan ilk kişiydi."
+        },
+        {
+            "key": "question112",
+            "value": "Sürüklenme, bir uçağın kalkışına yardımcı olur."
+        },
+        {
+            "key": "question113",
+            "value": "Airbus A380, dünyanın en büyük yolcu uçağıdır."
+        },
+        {
+            "key": "question114",
+            "value": "Bir uçak havada 360 derece dönebilir."
+        },
+        {
+            "key": "question115",
+            "value": "Uçak kanatları uçuş sırasında şekil değiştirebilir."
+        },
+        {
+            "key": "question116",
+            "value": "Modern uçaklar yıldırım çarpmalarına dayanabilir."
+        },
+        {
+            "key": "question117",
+            "value": "Tüm yolcu uçaklarında iki motor bulunur."
+        },
+        {
+            "key": "question118",
+            "value": "Yolcu uçakları gece uçamaz."
+        },
+        {
+            "key": "question119",
+            "value": "Hava yolculuğu, en güvenli ulaşım yöntemidir."
+        },
+        {
+            "key": "question120",
+            "value": "Uçuş sırasında yolcular uçağın kanadında yürüyebilir."
+        },
+        {
+            "key": "question121",
+            "value": "Kalkış ve iniş, bir uçuşun en tehlikeli aşamalarıdır."
+        },
+        {
+            "key": "question122",
+            "value": "Bir uçak havada iken yakıt ikmali yapılabilir."
+        },
+        {
+            "key": "question123",
+            "value": "Bir uçak, bir motor arızalansa bile uçabilir."
+        },
+        {
+            "key": "question124",
+            "value": "Uçaklar yağmurda uçamaz."
+        },
+        {
+            "key": "question125",
+            "value": "Pilotlar uçuş sırasında uyuyabilir."
+        },
+        {
+            "key": "question126",
+            "value": "Yolcu uçaklarında cankurtaran botları bulunur."
+        },
+        {
+            "key": "question127",
+            "value": "Uçuş irtifası, uçak yakıt verimliliğini etkiler."
+        },
+        {
+            "key": "question128",
+            "value": "İlk jet uçak 1950'lerde yaratıldı."
+        },
+        {
+            "key": "question129",
+            "value": "Modern uçaklar güneş enerjisi kullanır."
+        },
+        {
+            "key": "question130",
+            "value": "Concorde, süpersonik bir yolcu uçağıydı."
+        },
+        {
+            "key": "question131",
+            "value": "Her uçağın benzersiz bir kodu vardır."
+        },
+        {
+            "key": "question132",
+            "value": "Uçaklar her zaman A noktasından B noktasına düz bir hat üzerinde hareket eder."
+        },
+        {
+            "key": "question133",
+            "value": "Kokpitte bir tuvalet vardır."
+        },
+        {
+            "key": "question134",
+            "value": "Pilotlar her uçuş öncesinde tıbbi muayeneden geçer."
+        },
+        {
+            "key": "question135",
+            "value": "Uçaklar suya iniş yapabilir."
+        },
+        {
+            "key": "question136",
+            "value": "Yolcular kalkış ve iniş sırasında cep telefonlarını kullanabilir."
+        },
+        {
+            "key": "question137",
+            "value": "Kabin memurları, ilk yardım sağlama konusunda eğitimlidir."
+        },
+        {
+            "key": "question138",
+            "value": "Uçaklar türbülansta parçalanabilir."
+        },
+        {
+            "key": "question139",
+            "value": "Uçmak biyolojik ritmimizi etkiler."
+        },
+        {
+            "key": "question140",
+            "value": "Her uçakta bir otomatik pilot sistemi bulunur."
+        },
+        {
+            "key": "question141",
+            "value": "Kokpitte açılabilen pencereler vardır."
+        },
+        {
+            "key": "question142",
+            "value": "Acil bir durumda yolcular uçağı kullanabilir."
+        },
+        {
+            "key": "question143",
+            "value": "Havacılık navigasyon sistemleri GPS kullanır."
+        },
+        {
+            "key": "question144",
+            "value": "Yeni her uçak için uçuş testleri yapılır."
+        },
+        {
+            "key": "question145",
+            "value": "Bazı uçaklarda yolcular için bir spor salonu vardır."
+        },
+        {
+            "key": "shop",
+            "value": "mağaza"
+        },
+        {
+            "key": "settings",
+            "value": "ayarlar"
+        },
+        {
+            "key": "free flight",
+            "value": "serbest uçuş"
+        },
+        {
+            "key": "levels",
+            "value": "seviyeler"
+        },
+        {
+            "key": "backgrounds",
+            "value": "arkaplanlar"
+        },
+        {
+            "key": "vibration",
+            "value": "titreşim"
+        },
+        {
+            "key": "show fps",
+            "value": "fps göster"
+        },
+        {
+            "key": "sound",
+            "value": "ses"
+        },
+        {
+            "key": "music",
+            "value": "müzik"
+        },
+        {
+            "key": "planes",
+            "value": "uçaklar"
+        },
+        {
+            "key": "equip",
+            "value": "kuşan"
+        },
+        {
+            "key": "equipped",
+            "value": "kuşanıldı"
+        },
+        {
+            "key": "unlocks_at_level",
+            "value": "seviyede açılır"
+        },
+        {
+            "key": "score",
+            "value": "skor"
+        },
+        {
+            "key": "best",
+            "value": "en iyi"
+        },
+        {
+            "key": "true",
+            "value": "doğru"
+        },
+        {
+            "key": "false",
+            "value": "yanlış"
+        },
+        {
+            "key": "paused",
+            "value": "duraklatıldı"
+        },
+        {
+            "key": "resume",
+            "value": "devam et"
+        },
+        {
+            "key": "restart",
+            "value": "yeniden başlat"
+        },
+        {
+            "key": "back to menu",
+            "value": "menüye geri dön"
+        },
+        {
+            "key": "game over",
+            "value": "oyun bitti"
+        },
+        {
+            "key": "play again",
+            "value": "tekrar oyna"
+        },
+        {
+            "key": "you win !",
+            "value": "kazandın !"
+        },
+        {
+            "key": "next level",
+            "value": "sonraki seviye"
+        },
+        {
+            "key": "privacy policy",
+            "value": "gizlilik politikası"
+        },
+        {
+            "key": "rate us",
+            "value": "bizi değerlendir"
+        },
+
+        {
+            "key": "language",
+            "value": "dil"
+        }
+    ]
+}

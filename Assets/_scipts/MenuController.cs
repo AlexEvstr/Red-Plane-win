@@ -8,6 +8,8 @@ public class MenuController : MonoBehaviour
     [SerializeField] private GameObject _levels;
     [SerializeField] private GameObject _shop;
     [SerializeField] private GameObject _settings;
+    [SerializeField] private GameObject _policy;
+    [SerializeField] private GameObject _language;
     [SerializeField] private GameObject[] _planes;
     [SerializeField] private Image _wallpaper;
     [SerializeField] private Sprite[] _wallpapers;
@@ -65,6 +67,29 @@ public class MenuController : MonoBehaviour
     public void CloseSettings()
     {
         _settings.SetActive(false);
+        _language.SetActive(false);
         _menu.SetActive(true);
+    }
+
+    public void OpenPolicy()
+    {
+        _settings.SetActive(false);
+        _policy.SetActive(true);
+    }
+
+    public void ClosePolicy()
+    {
+        _policy.SetActive(false);
+        _settings.SetActive(true);
+    }
+
+    public void OpenLanguage()
+    {
+        _language.SetActive(true);
+    }
+
+    public void CloseLanguage()
+    {
+        _language.SetActive(false);
     }
 }

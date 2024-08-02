@@ -706,14 +706,18 @@
         },
 
         {
-            "key": "",
-            "value": ""
+            "key": "privacy policy",
+            "value": "privacy policy"
         },
 
         {
-            "key": "",
-            "value": ""
-        }
+            "key": "rate us",
+            "value": "rate us"
+        },
 
+        {
+            "key": "language",
+            "value": "language"
+        }
     ]
 }

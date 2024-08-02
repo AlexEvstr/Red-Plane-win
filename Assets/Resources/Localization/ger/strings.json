@@ -1,0 +1,697 @@
+{
+    "items": [
+        {
+            "key": "question1",
+            "value": "Ein Flugzeug kann ohne Flügel fliegen."
+        },
+        {
+            "key": "question2",
+            "value": "Die Brüder Wright erfanden das erste erfolgreiche Flugzeug."
+        },
+        {
+            "key": "question3",
+            "value": "Ein Düsenmotor verwendet einen Propeller, um Schub zu erzeugen."
+        },
+        {
+            "key": "question4",
+            "value": "Der Flugschreiber eines Flugzeugs ist eigentlich orange."
+        },
+        {
+            "key": "question5",
+            "value": "Alle Flugzeuge haben die gleiche Anzahl an Triebwerken."
+        },
+        {
+            "key": "question6",
+            "value": "Die Flügel eines Flugzeugs sind so konstruiert, dass sie Auftrieb erzeugen."
+        },
+        {
+            "key": "question7",
+            "value": "Flugzeuge können nur tagsüber fliegen."
+        },
+        {
+            "key": "question8",
+            "value": "Das Heck eines Flugzeugs hilft bei der Stabilität."
+        },
+        {
+            "key": "question9",
+            "value": "Ein Pilot benötigt eine Lizenz, um ein Flugzeug zu fliegen."
+        },
+        {
+            "key": "question10",
+            "value": "Flugzeuge können nicht im Regen fliegen."
+        },
+        {
+            "key": "question11",
+            "value": "Ein Hubschrauber ist eine Art Flugzeug."
+        },
+        {
+            "key": "question12",
+            "value": "Kommerzielle Flugzeuge haben normalerweise eine Flugbegleiterin."
+        },
+        {
+            "key": "question13",
+            "value": "Das Cockpit ist der Ort, an dem die Passagiere sitzen."
+        },
+        {
+            "key": "question14",
+            "value": "Flugzeuge können schneller als die Schallgeschwindigkeit fliegen."
+        },
+        {
+            "key": "question15",
+            "value": "Der Rumpf ist der Hauptkörper eines Flugzeugs."
+        },
+        {
+            "key": "question16",
+            "value": "Flugzeuge können nur von Flughäfen starten."
+        },
+        {
+            "key": "question17",
+            "value": "Das Fahrwerk wird beim Starten und Landen verwendet."
+        },
+        {
+            "key": "question18",
+            "value": "Die Flügel eines Flugzeugs können nicht bewegt werden."
+        },
+        {
+            "key": "question19",
+            "value": "Ein Autopilotsystem kann ein Flugzeug ohne menschliches Eingreifen fliegen."
+        },
+        {
+            "key": "question20",
+            "value": "Alle Flugzeuge haben eine maximale Flughöhe, die sie erreichen können."
+        },
+        {
+            "key": "question21",
+            "value": "Die Geschwindigkeit eines Flugzeugs wird in Knoten gemessen."
+        },
+        {
+            "key": "question22",
+            "value": "Ein propellergetriebenes Flugzeug wird als Jet bezeichnet."
+        },
+        {
+            "key": "question23",
+            "value": "Flugzeuge benötigen Sauerstofftanks, um Luft für die Passagiere bereitzustellen."
+        },
+        {
+            "key": "question24",
+            "value": "Die Klappen an den Flügeln eines Flugzeugs helfen, es zu verlangsamen."
+        },
+        {
+            "key": "question25",
+            "value": "Ein Jumbojet ist eine Art großes Passagierflugzeug."
+        },
+        {
+            "key": "question26",
+            "value": "Das Höhenmesser in einem Flugzeug misst die Geschwindigkeit."
+        },
+        {
+            "key": "question27",
+            "value": "Alle Flugzeuge haben einen Kopiloten."
+        },
+        {
+            "key": "question28",
+            "value": "Der Concorde war ein Überschall-Passagierflugzeug."
+        },
+        {
+            "key": "question29",
+            "value": "Ein Flugzeugmotor kann mit Strom betrieben werden."
+        },
+        {
+            "key": "question30",
+            "value": "Das vertikale Stabilisator befindet sich am Heck des Flugzeugs."
+        },
+        {
+            "key": "question31",
+            "value": "Flugzeuge können nur bei klarem Wetter fliegen."
+        },
+        {
+            "key": "question32",
+            "value": "Ein Doppeldecker hat zwei Flügelsätze."
+        },
+        {
+            "key": "question33",
+            "value": "Flugzeuge können zur Brandbekämpfung eingesetzt werden."
+        },
+        {
+            "key": "question34",
+            "value": "Das Fahrwerk ist während des Fluges immer ausgefahren."
+        },
+        {
+            "key": "question35",
+            "value": "Das Seitenruder steuert das Gieren eines Flugzeugs."
+        },
+        {
+            "key": "question36",
+            "value": "Flugzeuge werden mit Solarenergie betrieben."
+        },
+        {
+            "key": "question37",
+            "value": "Die Höhe eines Flugzeugs wird in Fuß oder Metern gemessen."
+        },
+        {
+            "key": "question38",
+            "value": "Der erste Flug eines Flugzeugs war im 18. Jahrhundert."
+        },
+        {
+            "key": "question39",
+            "value": "Flugzeuge können in der Luft betankt werden."
+        },
+        {
+            "key": "question40",
+            "value": "Die Querruder steuern die Rollbewegung eines Flugzeugs."
+        },
+        {
+            "key": "question41",
+            "value": "Alle Flugzeuge sind mit Fallschirmen ausgestattet."
+        },
+        {
+            "key": "question42",
+            "value": "Die Geschwindigkeit eines Flugzeugs kann durch Wind beeinflusst werden."
+        },
+        {
+            "key": "question43",
+            "value": "Die Flügel eines Flugzeugs können ihre Form ändern."
+        },
+        {
+            "key": "question44",
+            "value": "Ein Flugzeug kann wie ein Hubschrauber an Ort und Stelle schweben."
+        },
+        {
+            "key": "question45",
+            "value": "Der F-22 Raptor ist eine Art Militärflugzeug."
+        },
+        {
+            "key": "question46",
+            "value": "Flugzeuge können nicht für den Gütertransport verwendet werden."
+        },
+        {
+            "key": "question47",
+            "value": "Die Spannweite eines Flugzeugs beeinflusst seinen Auftrieb."
+        },
+        {
+            "key": "question48",
+            "value": "Flugzeuge sind immer schneller als Autos."
+        },
+        {
+            "key": "question49",
+            "value": "Der Boeing 747 ist als die „Königin der Lüfte“ bekannt."
+        },
+        {
+            "key": "question50",
+            "value": "Flugzeuge haben nur eine Methode zur Steuerung der Richtung."
+        },
+        {
+            "key": "question51",
+            "value": "Ein Wasserflugzeug kann auf Wasser landen."
+        },
+        {
+            "key": "question52",
+            "value": "Flugzeuge haben immer einen Ersatzpiloten."
+        },
+        {
+            "key": "question53",
+            "value": "Der Anstellwinkel beeinflusst den erzeugten Auftrieb eines Flugzeugs."
+        },
+        {
+            "key": "question54",
+            "value": "Flugzeuge können auf dem Kopf fliegen."
+        },
+        {
+            "key": "question55",
+            "value": "Alle Flugzeuge haben vier Triebwerke."
+        },
+        {
+            "key": "question56",
+            "value": "Die Hauptfunktion des Höhenleitwerks besteht darin, die Neigung zu steuern."
+        },
+        {
+            "key": "question57",
+            "value": "Ein Linienflugzeug ist eine Art kommerzielles Flugzeug."
+        },
+        {
+            "key": "question58",
+            "value": "Flugzeuge können nicht über Berge fliegen."
+        },
+        {
+            "key": "question59",
+            "value": "Flugzeuge werden für medizinische Evakuierungen eingesetzt."
+        },
+        {
+            "key": "question60",
+            "value": "Die Höchstgeschwindigkeit eines Flugzeugs wird als Überziehgeschwindigkeit bezeichnet."
+        },
+        {
+            "key": "question61",
+            "value": "Flugzeuge können vertikal wie Raketen starten."
+        },
+        {
+            "key": "question62",
+            "value": "Die Flügel eines Flugzeugs erzeugen Schub."
+        },
+        {
+            "key": "question63",
+            "value": "Der Begriff „Mayday“ wird verwendet, um eine Notsituation in der Luftfahrt zu signalisieren."
+        },
+        {
+            "key": "question64",
+            "value": "Alle Flugzeuge sind aus Metall gefertigt."
+        },
+        {
+            "key": "question65",
+            "value": "Die Flügel eines Flugzeugs sind immer parallel zum Rumpf."
+        },
+        {
+            "key": "question66",
+            "value": "Das Seitenruder eines Flugzeugs steuert seine Höhe."
+        },
+        {
+            "key": "question67",
+            "value": "Der erste motorisierte Flug war 1903."
+        },
+        {
+            "key": "question68",
+            "value": "Flugzeuge können rückwärts fliegen."
+        },
+        {
+            "key": "question69",
+            "value": "Die Navigationslichter eines Flugzeugs helfen ihm, nachts zu landen."
+        },
+        {
+            "key": "question70",
+            "value": "Flugzeuge können ferngesteuert werden."
+        },
+        {
+            "key": "question71",
+            "value": "Die F-16 ist ein kommerzielles Flugzeug."
+        },
+        {
+            "key": "question72",
+            "value": "Flugzeuge können gleichzeitig Fracht und Passagiere befördern."
+        },
+        {
+            "key": "question73",
+            "value": "Die Nase eines Flugzeugs wird als Bug bezeichnet."
+        },
+        {
+            "key": "question74",
+            "value": "Flugzeuge verwenden Klappen, um den Auftrieb beim Start zu erhöhen."
+        },
+        {
+            "key": "question75",
+            "value": "Flugzeuge können nicht für wissenschaftliche Forschung verwendet werden."
+        },
+        {
+            "key": "question76",
+            "value": "Der vertikale Stabilisator wird verwendet, um die Rollbewegung eines Flugzeugs zu kontrollieren."
+        },
+        {
+            "key": "question77",
+            "value": "Flugzeuge können nur von Menschen geflogen werden."
+        },
+        {
+            "key": "question78",
+            "value": "Das Fahrwerk wird nach dem Start eingefahren."
+        },
+        {
+            "key": "question79",
+            "value": "Flugzeuge haben ein maximales Startgewicht."
+        },
+        {
+            "key": "question80",
+            "value": "Die Flügel eines Flugzeugs werden verwendet, um Schub zu erzeugen."
+        },
+        {
+            "key": "question81",
+            "value": "Ein Flugzeug kann nicht mit nur einem funktionierenden Triebwerk fliegen."
+        },
+        {
+            "key": "question82",
+            "value": "Der Concorde konnte mit doppelter Schallgeschwindigkeit reisen."
+        },
+        {
+            "key": "question83",
+            "value": "Die Klappen eines Flugzeugs werden verwendet, um das Gieren zu steuern."
+        },
+        {
+            "key": "question84",
+            "value": "Der Wright Flyer war das erste motorisierte Flugzeug."
+        },
+        {
+            "key": "question85",
+            "value": "Flugzeuge können nicht durch Wolken fliegen."
+        },
+        {
+            "key": "question86",
+            "value": "Das Heck eines Flugzeugs hilft, seine Richtung zu kontrollieren."
+        },
+        {
+            "key": "question87",
+            "value": "Flugzeuge können nicht schneller als 500 Meilen pro Stunde fliegen."
+        },
+        {
+            "key": "question88",
+            "value": "Die Boeing 737 ist eine Art Kampfflugzeug."
+        },
+        {
+            "key": "question89",
+            "value": "Die Flügel eines Flugzeugs sind immer flach."
+        },
+        {
+            "key": "question90",
+            "value": "Das Seitenruder ist Teil des Heckflossen."
+        },
+        {
+            "key": "question91",
+            "value": "Flugzeuge können während des Fluges betankt werden."
+        },
+        {
+            "key": "question92",
+            "value": "Die Nase eines Flugzeugs beeinflusst seine Aerodynamik."
+        },
+        {
+            "key": "question93",
+            "value": "Flugzeuge können unbegrenzt in einer geraden Linie fliegen."
+        },
+        {
+            "key": "question94",
+            "value": "Ein Flugzeug kann ohne Fahrwerk landen."
+        },
+        {
+            "key": "question95",
+            "value": "Flugzeuge müssen spezifische Flugrouten befolgen."
+        },
+        {
+            "key": "question96",
+            "value": "Der F-35 Lightning II ist eine Art kommerzielles Flugzeug."
+        },
+        {
+            "key": "question97",
+            "value": "Die Querruder helfen, die Rollbewegung eines Flugzeugs zu kontrollieren."
+        },
+        {
+            "key": "question98",
+            "value": "Die Flügel eines Flugzeugs können gefaltet werden."
+        },
+        {
+            "key": "question99",
+            "value": "Flugzeuge können vom Wasser aus starten."
+        },
+        {
+            "key": "question100",
+            "value": "Der Concorde war für seine langsame Geschwindigkeit bekannt."
+        },
+        {
+            "key": "question101",
+            "value": "Flugzeuge fliegen aufgrund des von den Flügeln erzeugten Auftriebs."
+        },
+        {
+            "key": "question102",
+            "value": "Das erste Verkehrsflugzeug war die Boeing 747."
+        },
+        {
+            "key": "question103",
+            "value": "Flugzeugtriebwerke können mit Wasserstoff betrieben werden."
+        },
+        {
+            "key": "question104",
+            "value": "Fluglotsen arbeiten nur tagsüber."
+        },
+        {
+            "key": "question105",
+            "value": "Im Cockpit gibt es zwei Steuerhörner."
+        },
+        {
+            "key": "question106",
+            "value": "Alle Flugzeuge haben einen Flugschreiber."
+        },
+        {
+            "key": "question107",
+            "value": "Moderne Flugzeuge können ohne Besatzung fliegen."
+        },
+        {
+            "key": "question108",
+            "value": "Die Besatzung eines Flugzeugs besteht immer aus einem Piloten und einem Kopiloten."
+        },
+        {
+            "key": "question109",
+            "value": "Frühe Flugzeuge verwendeten Holzpropeller."
+        },
+        {
+            "key": "question110",
+            "value": "Flugzeuge fliegen in einer Höhe von etwa 10.000 Metern."
+        },
+        {
+            "key": "question111",
+            "value": "Charles Lindbergh war die erste Person, die solo über den Atlantik flog."
+        },
+        {
+            "key": "question112",
+            "value": "Widerstand hilft einem Flugzeug beim Starten."
+        },
+        {
+            "key": "question113",
+            "value": "Der Airbus A380 ist das größte Passagierflugzeug der Welt."
+        },
+        {
+            "key": "question114",
+            "value": "Ein Flugzeug kann in der Luft 360 Grad drehen."
+        },
+        {
+            "key": "question115",
+            "value": "Flugzeugflügel können ihre Form im Flug ändern."
+        },
+        {
+            "key": "question116",
+            "value": "Moderne Flugzeuge können Blitzschläge aushalten."
+        },
+        {
+            "key": "question117",
+            "value": "Alle Passagierflugzeuge haben zwei Triebwerke."
+        },
+        {
+            "key": "question118",
+            "value": "Passagierflugzeuge können nachts nicht fliegen."
+        },
+        {
+            "key": "question119",
+            "value": "Luftreisen sind das sicherste Transportmittel."
+        },
+        {
+            "key": "question120",
+            "value": "Während des Fluges können Passagiere auf dem Flügel des Flugzeugs gehen."
+        },
+        {
+            "key": "question121",
+            "value": "Start und Landung sind die gefährlichsten Phasen eines Fluges."
+        },
+        {
+            "key": "question122",
+            "value": "Ein Flugzeug kann in der Luft betankt werden."
+        },
+        {
+            "key": "question123",
+            "value": "Ein Flugzeug kann fliegen, wenn ein Triebwerk ausfällt."
+        },
+        {
+            "key": "question124",
+            "value": "Flugzeuge können nicht im Regen fliegen."
+        },
+        {
+            "key": "question125",
+            "value": "Piloten können während des Fluges schlafen."
+        },
+        {
+            "key": "question126",
+            "value": "Passagierflugzeuge haben Rettungsboote."
+        },
+        {
+            "key": "question127",
+            "value": "Die Flughöhe beeinflusst die Kraftstoffeffizienz des Flugzeugs."
+        },
+        {
+            "key": "question128",
+            "value": "Das erste Düsenflugzeug wurde in den 1950er Jahren entwickelt."
+        },
+        {
+            "key": "question129",
+            "value": "Moderne Flugzeuge nutzen Solarenergie."
+        },
+        {
+            "key": "question130",
+            "value": "Der Concorde war ein Überschall-Passagierflugzeug."
+        },
+        {
+            "key": "question131",
+            "value": "Jedes Flugzeug hat einen einzigartigen Code."
+        },
+        {
+            "key": "question132",
+            "value": "Flugzeuge folgen immer einer geraden Linie von Punkt A nach Punkt B."
+        },
+        {
+            "key": "question133",
+            "value": "Im Cockpit gibt es eine Toilette."
+        },
+        {
+            "key": "question134",
+            "value": "Piloten unterziehen sich vor jedem Flug einer medizinischen Untersuchung."
+        },
+        {
+            "key": "question135",
+            "value": "Flugzeuge können auf Wasser landen."
+        },
+        {
+            "key": "question136",
+            "value": "Passagiere können während des Startens und Landens Mobiltelefone benutzen."
+        },
+        {
+            "key": "question137",
+            "value": "Flugbegleiter sind in Erster Hilfe ausgebildet."
+        },
+        {
+            "key": "question138",
+            "value": "Flugzeuge können sich bei Turbulenzen auseinanderbrechen."
+        },
+        {
+            "key": "question139",
+            "value": "Fliegen beeinflusst unseren biologischen Rhythmus."
+        },
+        {
+            "key": "question140",
+            "value": "Jedes Flugzeug hat ein Autopilotsystem."
+        },
+        {
+            "key": "question141",
+            "value": "Im Cockpit gibt es Fenster, die geöffnet werden können."
+        },
+        {
+            "key": "question142",
+            "value": "Passagiere können in einem Notfall das Flugzeug bedienen."
+        },
+        {
+            "key": "question143",
+            "value": "Navigationssysteme in der Luftfahrt verwenden GPS."
+        },
+        {
+            "key": "question144",
+            "value": "Für jedes neue Flugzeug werden Flugtests durchgeführt."
+        },
+        {
+            "key": "question145",
+            "value": "Einige Flugzeuge haben ein Fitnessstudio für Passagiere."
+        },
+        {
+            "key": "shop",
+            "value": "geschäft"
+        },
+        {
+            "key": "settings",
+            "value": "einstellungen"
+        },
+        {
+            "key": "free flight",
+            "value": "freier Flug"
+        },
+        {
+            "key": "levels",
+            "value": "eenen"
+        },
+        {
+            "key": "backgrounds",
+            "value": "hintergründe"
+        },
+        {
+            "key": "vibration",
+            "value": "vibration"
+        },
+        {
+            "key": "show fps",
+            "value": "fps anzeigen"
+        },
+        {
+            "key": "sound",
+            "value": "ton"
+        },
+        {
+            "key": "music",
+            "value": "musik"
+        },
+        {
+            "key": "planes",
+            "value": "flugzeuge"
+        },
+        {
+            "key": "equip",
+            "value": "ausrüsten"
+        },
+        {
+            "key": "equipped",
+            "value": "ausgerüstet"
+        },
+        {
+            "key": "unlocks_at_level",
+            "value": "wird auf Level freigeschaltet"
+        },
+        {
+            "key": "score",
+            "value": "punktestand"
+        },
+        {
+            "key": "best",
+            "value": "beste"
+        },
+        {
+            "key": "true",
+            "value": "wahr"
+        },
+        {
+            "key": "false",
+            "value": "falsch"
+        },
+        {
+            "key": "paused",
+            "value": "pausiert"
+        },
+        {
+            "key": "resume",
+            "value": "fortsetzen"
+        },
+        {
+            "key": "restart",
+            "value": "neu starten"
+        },
+        {
+            "key": "back to menu",
+            "value": "zurück zum Menü"
+        },
+        {
+            "key": "game over",
+            "value": "spiel vorbei"
+        },
+        {
+            "key": "play again",
+            "value": "nochmal spielen"
+        },
+        {
+            "key": "you win !",
+            "value": "du gewinnst!"
+        },
+        {
+            "key": "next level",
+            "value": "nächstes Level"
+        },
+        {
+            "key": "privacy policy",
+            "value": "datenschutzrichtlinie"
+        },
+        {
+            "key": "rate us",
+            "value": "bewerte uns"
+        },
+
+        {
+            "key": "language",
+            "value": "sprache"
+        }
+    ]
+}

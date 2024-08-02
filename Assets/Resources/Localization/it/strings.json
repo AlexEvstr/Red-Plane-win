@@ -1,0 +1,697 @@
+{
+    "items": [
+        {
+            "key": "question1",
+            "value": "Un aereo può volare senza ali."
+        },
+        {
+            "key": "question2",
+            "value": "I fratelli Wright hanno inventato il primo aereo di successo."
+        },
+        {
+            "key": "question3",
+            "value": "Un motore a reazione utilizza un'elica per generare spinta."
+        },
+        {
+            "key": "question4",
+            "value": "La scatola nera di un aereo è in realtà arancione."
+        },
+        {
+            "key": "question5",
+            "value": "Tutti gli aerei hanno lo stesso numero di motori."
+        },
+        {
+            "key": "question6",
+            "value": "Le ali di un aereo sono progettate per generare portanza."
+        },
+        {
+            "key": "question7",
+            "value": "Gli aerei possono volare solo durante il giorno."
+        },
+        {
+            "key": "question8",
+            "value": "La coda di un aereo aiuta con la stabilità."
+        },
+        {
+            "key": "question9",
+            "value": "Un pilota ha bisogno di una licenza per pilotare un aereo."
+        },
+        {
+            "key": "question10",
+            "value": "Gli aerei non possono volare sotto la pioggia."
+        },
+        {
+            "key": "question11",
+            "value": "Un elicottero è un tipo di aereo."
+        },
+        {
+            "key": "question12",
+            "value": "Gli aerei commerciali di solito hanno un assistente di volo."
+        },
+        {
+            "key": "question13",
+            "value": "La cabina di pilotaggio è dove siedono i passeggeri."
+        },
+        {
+            "key": "question14",
+            "value": "Gli aerei possono viaggiare più velocemente della velocità del suono."
+        },
+        {
+            "key": "question15",
+            "value": "La fusoliera è il corpo principale di un aereo."
+        },
+        {
+            "key": "question16",
+            "value": "Gli aerei possono decollare solo dagli aeroporti."
+        },
+        {
+            "key": "question17",
+            "value": "Il carrello di atterraggio viene utilizzato durante il decollo e l'atterraggio."
+        },
+        {
+            "key": "question18",
+            "value": "Le ali di un aereo non possono essere spostate."
+        },
+        {
+            "key": "question19",
+            "value": "Un sistema di pilota automatico può far volare un aereo senza intervento umano."
+        },
+        {
+            "key": "question20",
+            "value": "Tutti gli aerei hanno un'altitudine massima che possono raggiungere."
+        },
+        {
+            "key": "question21",
+            "value": "La velocità di un aereo è misurata in nodi."
+        },
+        {
+            "key": "question22",
+            "value": "Un aereo a elica è chiamato jet."
+        },
+        {
+            "key": "question23",
+            "value": "Gli aerei hanno bisogno di bombole di ossigeno per fornire aria ai passeggeri."
+        },
+        {
+            "key": "question24",
+            "value": "I flap sulle ali di un aereo aiutano a rallentarlo."
+        },
+        {
+            "key": "question25",
+            "value": "Un jumbo jet è un tipo di grande aereo passeggeri."
+        },
+        {
+            "key": "question26",
+            "value": "L'altimetro in un aereo misura la velocità."
+        },
+        {
+            "key": "question27",
+            "value": "Tutti gli aerei hanno un copilota."
+        },
+        {
+            "key": "question28",
+            "value": "Il Concorde era un aereo passeggeri supersonico."
+        },
+        {
+            "key": "question29",
+            "value": "Il motore di un aereo può funzionare con l'elettricità."
+        },
+        {
+            "key": "question30",
+            "value": "Lo stabilizzatore verticale si trova sulla coda dell'aereo."
+        },
+        {
+            "key": "question31",
+            "value": "Gli aerei possono volare solo in condizioni di cielo sereno."
+        },
+        {
+            "key": "question32",
+            "value": "Un biplano ha due set di ali."
+        },
+        {
+            "key": "question33",
+            "value": "Gli aerei possono essere utilizzati per spegnere incendi."
+        },
+        {
+            "key": "question34",
+            "value": "Il carrello di atterraggio è sempre esteso durante il volo."
+        },
+        {
+            "key": "question35",
+            "value": "Il timone controlla il beccheggio di un aereo."
+        },
+        {
+            "key": "question36",
+            "value": "Gli aerei sono alimentati da energia solare."
+        },
+        {
+            "key": "question37",
+            "value": "L'altitudine di un aereo è misurata in piedi o metri."
+        },
+        {
+            "key": "question38",
+            "value": "Il primo volo di un aereo è avvenuto nel XVIII secolo."
+        },
+        {
+            "key": "question39",
+            "value": "Gli aerei possono essere riforniti di carburante in volo."
+        },
+        {
+            "key": "question40",
+            "value": "Gli alettoni controllano il rollio di un aereo."
+        },
+        {
+            "key": "question41",
+            "value": "Tutti gli aerei sono dotati di paracadute."
+        },
+        {
+            "key": "question42",
+            "value": "La velocità di un aereo può essere influenzata dal vento."
+        },
+        {
+            "key": "question43",
+            "value": "Le ali di un aereo possono cambiare forma."
+        },
+        {
+            "key": "question44",
+            "value": "Un aereo può librarsi in posizione come un elicottero."
+        },
+        {
+            "key": "question45",
+            "value": "L'F-22 Raptor è un tipo di aereo militare."
+        },
+        {
+            "key": "question46",
+            "value": "Gli aerei non possono essere utilizzati per il trasporto di merci."
+        },
+        {
+            "key": "question47",
+            "value": "L'apertura alare di un aereo influisce sulla sua portanza."
+        },
+        {
+            "key": "question48",
+            "value": "Gli aerei sono sempre più veloci delle auto."
+        },
+        {
+            "key": "question49",
+            "value": "Il Boeing 747 è noto come la “Regina dei Cieli”."
+        },
+        {
+            "key": "question50",
+            "value": "Gli aerei hanno solo un metodo per controllare la direzione."
+        },
+        {
+            "key": "question51",
+            "value": "Un idrovolante può atterrare sull'acqua."
+        },
+        {
+            "key": "question52",
+            "value": "Gli aerei hanno sempre un pilota di riserva."
+        },
+        {
+            "key": "question53",
+            "value": "L'angolo di attacco influisce sulla portanza generata da un aereo."
+        },
+        {
+            "key": "question54",
+            "value": "Gli aerei possono volare a testa in giù."
+        },
+        {
+            "key": "question55",
+            "value": "Tutti gli aerei hanno quattro motori."
+        },
+        {
+            "key": "question56",
+            "value": "La funzione principale dell'elevatore è controllare il beccheggio."
+        },
+        {
+            "key": "question57",
+            "value": "Un aereo di linea è un tipo di aereo commerciale."
+        },
+        {
+            "key": "question58",
+            "value": "Gli aerei non possono volare sopra le montagne."
+        },
+        {
+            "key": "question59",
+            "value": "Gli aerei vengono utilizzati per le evacuazioni mediche."
+        },
+        {
+            "key": "question60",
+            "value": "La velocità massima di un aereo è chiamata velocità di stallo."
+        },
+        {
+            "key": "question61",
+            "value": "Gli aerei possono decollare verticalmente come i razzi."
+        },
+        {
+            "key": "question62",
+            "value": "Le ali di un aereo generano spinta."
+        },
+        {
+            "key": "question63",
+            "value": "Il termine “mayday” viene utilizzato per segnalare una situazione di emergenza nell'aviazione."
+        },
+        {
+            "key": "question64",
+            "value": "Tutti gli aerei sono fatti di metallo."
+        },
+        {
+            "key": "question65",
+            "value": "Le ali di un aereo sono sempre allineate con la fusoliera."
+        },
+        {
+            "key": "question66",
+            "value": "Il timone di un aereo controlla la sua altitudine."
+        },
+        {
+            "key": "question67",
+            "value": "Il primo volo motorizzato è stato nel 1903."
+        },
+        {
+            "key": "question68",
+            "value": "Gli aerei possono volare all'indietro."
+        },
+        {
+            "key": "question69",
+            "value": "Le luci di navigazione di un aereo lo aiutano ad atterrare di notte."
+        },
+        {
+            "key": "question70",
+            "value": "Gli aerei possono essere controllati a distanza."
+        },
+        {
+            "key": "question71",
+            "value": "L'F-16 è un aereo commerciale."
+        },
+        {
+            "key": "question72",
+            "value": "Gli aerei possono trasportare contemporaneamente merci e passeggeri."
+        },
+        {
+            "key": "question73",
+            "value": "La prua di un aereo è chiamata muso."
+        },
+        {
+            "key": "question74",
+            "value": "Gli aerei usano i flap per aumentare la portanza durante il decollo."
+        },
+        {
+            "key": "question75",
+            "value": "Gli aerei non possono essere utilizzati per la ricerca scientifica."
+        },
+        {
+            "key": "question76",
+            "value": "Lo stabilizzatore verticale viene utilizzato per controllare il rollio di un aereo."
+        },
+        {
+            "key": "question77",
+            "value": "Gli aerei possono essere pilotati solo dagli esseri umani."
+        },
+        {
+            "key": "question78",
+            "value": "Il carrello di atterraggio viene retratto dopo il decollo."
+        },
+        {
+            "key": "question79",
+            "value": "Gli aerei hanno un peso massimo al decollo."
+        },
+        {
+            "key": "question80",
+            "value": "Le ali di un aereo vengono utilizzate per generare spinta."
+        },
+        {
+            "key": "question81",
+            "value": "Un aereo non può volare con un solo motore funzionante."
+        },
+        {
+            "key": "question82",
+            "value": "Il Concorde poteva viaggiare al doppio della velocità del suono."
+        },
+        {
+            "key": "question83",
+            "value": "I flap di un aereo vengono utilizzati per controllare lo sbandamento."
+        },
+        {
+            "key": "question84",
+            "value": "Il Wright Flyer è stato il primo aereo motorizzato."
+        },
+        {
+            "key": "question85",
+            "value": "Gli aerei non possono volare attraverso le nuvole."
+        },
+        {
+            "key": "question86",
+            "value": "La coda di un aereo aiuta a controllarne la direzione."
+        },
+        {
+            "key": "question87",
+            "value": "Gli aerei non possono volare più veloci di 500 miglia orarie."
+        },
+        {
+            "key": "question88",
+            "value": "Il Boeing 737 è un tipo di caccia."
+        },
+        {
+            "key": "question89",
+            "value": "Le ali di un aereo sono sempre piatte."
+        },
+        {
+            "key": "question90",
+            "value": "Il timone fa parte dell'assemblaggio della coda di un aereo."
+        },
+        {
+            "key": "question91",
+            "value": "Gli aerei possono essere riforniti di carburante durante il volo."
+        },
+        {
+            "key": "question92",
+            "value": "Il muso di un aereo influisce sulla sua aerodinamica."
+        },
+        {
+            "key": "question93",
+            "value": "Gli aerei possono volare in linea retta indefinitamente."
+        },
+        {
+            "key": "question94",
+            "value": "Un aereo può atterrare senza il carrello di atterraggio."
+        },
+        {
+            "key": "question95",
+            "value": "Gli aerei devono seguire percorsi di volo specifici."
+        },
+        {
+            "key": "question96",
+            "value": "L'F-35 Lightning II è un tipo di aereo commerciale."
+        },
+        {
+            "key": "question97",
+            "value": "Gli alettoni aiutano a controllare il rollio di un aereo."
+        },
+        {
+            "key": "question98",
+            "value": "Le ali di un aereo possono essere piegate."
+        },
+        {
+            "key": "question99",
+            "value": "Gli aerei possono decollare dall'acqua."
+        },
+        {
+            "key": "question100",
+            "value": "Il Concorde era noto per la sua lentezza."
+        },
+        {
+            "key": "question101",
+            "value": "Gli aerei volano grazie alla portanza generata dalle ali."
+        },
+        {
+            "key": "question102",
+            "value": "Il primo aereo commerciale era il Boeing 747."
+        },
+        {
+            "key": "question103",
+            "value": "I motori degli aerei possono funzionare a idrogeno."
+        },
+        {
+            "key": "question104",
+            "value": "I controllori del traffico aereo lavorano solo durante il giorno."
+        },
+        {
+            "key": "question105",
+            "value": "Ci sono due cloche nella cabina di pilotaggio."
+        },
+        {
+            "key": "question106",
+            "value": "Tutti gli aerei hanno una scatola nera."
+        },
+        {
+            "key": "question107",
+            "value": "Gli aerei moderni possono volare senza equipaggio."
+        },
+        {
+            "key": "question108",
+            "value": "L'equipaggio di un aereo è sempre composto da un pilota e un copilota."
+        },
+        {
+            "key": "question109",
+            "value": "I primi aerei utilizzavano eliche di legno."
+        },
+        {
+            "key": "question110",
+            "value": "Gli aerei volano a un'altitudine di circa 10.000 metri."
+        },
+        {
+            "key": "question111",
+            "value": "Charles Lindbergh è stato il primo a volare da solo attraverso l'Atlantico."
+        },
+        {
+            "key": "question112",
+            "value": "La resistenza aiuta un aereo a decollare."
+        },
+        {
+            "key": "question113",
+            "value": "L'Airbus A380 è il più grande aereo passeggeri del mondo."
+        },
+        {
+            "key": "question114",
+            "value": "Un aereo può compiere una rotazione di 360 gradi in volo."
+        },
+        {
+            "key": "question115",
+            "value": "Le ali degli aerei possono cambiare forma durante il volo."
+        },
+        {
+            "key": "question116",
+            "value": "Gli aerei moderni possono resistere ai fulmini."
+        },
+        {
+            "key": "question117",
+            "value": "Tutti gli aerei passeggeri hanno due motori."
+        },
+        {
+            "key": "question118",
+            "value": "Gli aerei passeggeri non possono volare di notte."
+        },
+        {
+            "key": "question119",
+            "value": "Il trasporto aereo è il modo di trasporto più sicuro."
+        },
+        {
+            "key": "question120",
+            "value": "Durante il volo, i passeggeri possono camminare sull'ala dell'aereo."
+        },
+        {
+            "key": "question121",
+            "value": "Il decollo e l'atterraggio sono le fasi più pericolose di un volo."
+        },
+        {
+            "key": "question122",
+            "value": "Un aereo può essere rifornito in volo."
+        },
+        {
+            "key": "question123",
+            "value": "Un aereo può volare se un motore si guasta."
+        },
+        {
+            "key": "question124",
+            "value": "Gli aerei non possono volare sotto la pioggia."
+        },
+        {
+            "key": "question125",
+            "value": "I piloti possono dormire durante il volo."
+        },
+        {
+            "key": "question126",
+            "value": "Gli aerei passeggeri sono dotati di zattere di salvataggio."
+        },
+        {
+            "key": "question127",
+            "value": "L'altitudine del volo influisce sull'efficienza del carburante dell'aereo."
+        },
+        {
+            "key": "question128",
+            "value": "Il primo aereo a reazione è stato creato negli anni '50."
+        },
+        {
+            "key": "question129",
+            "value": "Gli aerei moderni utilizzano l'energia solare."
+        },
+        {
+            "key": "question130",
+            "value": "Il Concorde era un aereo passeggeri supersonico."
+        },
+        {
+            "key": "question131",
+            "value": "Ogni aereo ha un codice unico."
+        },
+        {
+            "key": "question132",
+            "value": "Gli aerei seguono sempre una linea retta dal punto A al punto B."
+        },
+        {
+            "key": "question133",
+            "value": "C'è un bagno nella cabina di pilotaggio."
+        },
+        {
+            "key": "question134",
+            "value": "I piloti sono sottoposti a visite mediche prima di ogni volo."
+        },
+        {
+            "key": "question135",
+            "value": "Gli aerei possono atterrare sull'acqua."
+        },
+        {
+            "key": "question136",
+            "value": "I passeggeri possono usare i telefoni cellulari durante il decollo e l'atterraggio."
+        },
+        {
+            "key": "question137",
+            "value": "Gli assistenti di volo sono addestrati a fornire il primo soccorso."
+        },
+        {
+            "key": "question138",
+            "value": "Gli aerei possono rompersi durante le turbolenze."
+        },
+        {
+            "key": "question139",
+            "value": "Volare influisce sul nostro ritmo biologico."
+        },
+        {
+            "key": "question140",
+            "value": "Ogni aereo ha un sistema di pilota automatico."
+        },
+        {
+            "key": "question141",
+            "value": "Ci sono finestre nella cabina di pilotaggio che possono essere aperte."
+        },
+        {
+            "key": "question142",
+            "value": "I passeggeri possono pilotare l'aereo in caso di emergenza."
+        },
+        {
+            "key": "question143",
+            "value": "I sistemi di navigazione aeronautica utilizzano il GPS."
+        },
+        {
+            "key": "question144",
+            "value": "I test di volo vengono eseguiti per ogni nuovo aereo."
+        },
+        {
+            "key": "question145",
+            "value": "Alcuni aerei hanno una palestra per i passeggeri."
+        },
+        {
+            "key": "shop",
+            "value": "negozio"
+        },
+        {
+            "key": "settings",
+            "value": "impostazioni"
+        },
+        {
+            "key": "free flight",
+            "value": "volo libero"
+        },
+        {
+            "key": "levels",
+            "value": "livelli"
+        },
+        {
+            "key": "backgrounds",
+            "value": "sfondi"
+        },
+        {
+            "key": "vibration",
+            "value": "vibrazione"
+        },
+        {
+            "key": "show fps",
+            "value": "mostra fps"
+        },
+        {
+            "key": "sound",
+            "value": "suono"
+        },
+        {
+            "key": "music",
+            "value": "musica"
+        },
+        {
+            "key": "planes",
+            "value": "aerei"
+        },
+        {
+            "key": "equip",
+            "value": "equipaggia"
+        },
+        {
+            "key": "equipped",
+            "value": "equipaggiato"
+        },
+        {
+            "key": "unlocks_at_level",
+            "value": "sblocca al livello"
+        },
+        {
+            "key": "score",
+            "value": "punteggio"
+        },
+        {
+            "key": "best",
+            "value": "migliore"
+        },
+        {
+            "key": "true",
+            "value": "vero"
+        },
+        {
+            "key": "false",
+            "value": "falso"
+        },
+        {
+            "key": "paused",
+            "value": "in pausa"
+        },
+        {
+            "key": "resume",
+            "value": "riprendi"
+        },
+        {
+            "key": "restart",
+            "value": "riavvia"
+        },
+        {
+            "key": "back to menu",
+            "value": "torna al menu"
+        },
+        {
+            "key": "game over",
+            "value": "game over"
+        },
+        {
+            "key": "play again",
+            "value": "gioca ancora"
+        },
+        {
+            "key": "you win !",
+            "value": "hai vinto!"
+        },
+        {
+            "key": "next level",
+            "value": "livello successivo"
+        },
+        {
+            "key": "privacy policy",
+            "value": "politica sulla riservatezza"
+        },
+        {
+            "key": "rate us",
+            "value": "valutaci"
+        },
+
+        {
+            "key": "language",
+            "value": "lingua"
+        }
+    ]
+}
